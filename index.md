@@ -5,7 +5,7 @@ nav_order: 1
 description: "International Conference on Smart Systems and Green Energy Technologies - ICSGET 2023"
 permalink: /
 ---
-
+![](../../assets/images/bg_windmill.png)
 # ICSGET 2023
 {: .fs-9 }
 
