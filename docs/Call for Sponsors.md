@@ -3,14 +3,9 @@ title: Call for Sponsors
 layout: default
 nav_order: 3
 ---
-![](/assets/images/bg_windmill.jpg)
-## ICSGET 2023
-{: .fs-9 }
-
-[Submit Here](https://www.icsget.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Register Here](https://www.icsget.com){: .btn .fs-5 .mb-4 .mb-md-0 }
----
+![](../../assets/images/bg_windmill.jpg)
 ## Call for Sponsors
+---
 
 ICSGET-2023 is inviting the sponsors to promote the events of conference. It will include the logo of organization in the ICSGET-2023 website and also invite to organize (online/offline) an industry talk or product demo during the conference in Vardhaman College of Engineering, Hyderabad, India.
 
