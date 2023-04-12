@@ -6,7 +6,9 @@ nav_order: 2
 
 ## Call for Papers
 
-The 1st INTERNATIONAL CONFERENCE ON SMART SYSTEMS AND GREEN ENERGY TECHNOLOGIES (ICSGET-2022) invites original work, technically sound, quality research papers addressing the problems in the field of Smart Systems and Green Energy Technologies. The major themes are identified (but not limited to) and listed below under the Conference Tracks.
+The 2nd International Conference on Smart Systems and Green Energy Technologies (ICSGET-2023) invites original work, technically sound, quality research papers addressing the problems in the field of Smart Systems and Green Energy Technologies. The major themes are identified (but not limited to) and listed below under the Conference Tracks.
+
+---
 
 ### Track 1: Smart Systems
 1. Smart Grid Systems
@@ -47,5 +49,7 @@ The 1st INTERNATIONAL CONFERENCE ON SMART SYSTEMS AND GREEN ENERGY TECHNOLOGIES 
 7. Robotics & Process Automation
 8. Industrial internet of things
 9. Environmental Protection from Effluents
+
+---
 
 Papers undergo a single-blind review process, by experts drawn from reputed organizations, across the world. Nontrivial, unpublished and original contributions will only be considered for the conference. The conference will have main papers, presentations, and poster presentations for short papers. All accepted and registered (preseneted) papers will be published in the Conference Proceedings of **Springer**.
