@@ -12,6 +12,8 @@ permalink: /
 2nd International Conference on Smart Systems and Green Energy Technologies
 {: .fs-6 .fw-300 }
 
+
+
 [Submit Here](https://www.icsget.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Register Here](https://www.icsget.com){: .btn .fs-5 .mb-4 .mb-md-0 }
 
