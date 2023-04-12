@@ -28,27 +28,9 @@ The 2nd International Conference on Smart systems and Green energy Technologies 
 
 
 ### Important Dates
-			<table style="undefined;table-layout: fixed; width: auto; margin-left: auto; margin-right: auto;">
-			<tbody>
-			  <tr>
-				<td>Full Paper Submission deadline </td>
-				<td class="text-base-color">August 15, 2023</td>
-			  </tr>
-			  <tr>
-				<td>Review notification </td>
-				<td class="text-base-color">September 15, 2023</td>
-			  </tr>
-			  <tr>
-				<td>Registration, Camera ready, Copyright</td>
-				<td class="text-base-color">October 15, 2023</td>
-			  </tr>
-			  <tr>
-				<td>Conference dates</td>
-				<td class="text-base-color">16 - 18 November, 2023</td>
-			  </tr>
-			  <tr>
-				<td>Paper Submission Link</td>
-				<td class="text-base-color">Will be updated</td>
-			  </tr>
-			</tbody>
-			</table>
+
+| Full Paper Submission Deadline        | August 15, 2023|
+| Review Notification                   | September 15, 2023|
+| Registration, Camera ready, Copyright | October 15, 2023|
+| Conference Dates                      | 16-18 November, 2023|
+
