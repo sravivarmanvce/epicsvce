@@ -3,7 +3,7 @@ title: Call for Papers
 layout: default
 nav_order: 2
 ---
-![](./assets/images/bg_windmill.jpg)
+![](../../assets/images/bg_windmill.jpg)
 ## Call for Papers
 ---
 The 2nd International Conference on Smart Systems and Green Energy Technologies (ICSGET-2023) is an interdisciplinary platform both for industry and academia to present and discuss the innovations, trends, and concerns as well as the challenges encountered and solutions. Authors are welcomed to submit their original, unpublished research contributions that are not currently under consideration by another conference/journal. ICSGET 2023 invites the original research papers on the following topics listed below, but not limited to:
