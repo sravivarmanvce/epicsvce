@@ -100,7 +100,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "ICSGET 2022":
-    - "https://icsget.com/icsget2022"
+    - "https://icsget.com/2022"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
