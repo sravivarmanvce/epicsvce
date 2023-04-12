@@ -1,3 +1,8 @@
+---
+title: Call for Sponsors
+layout: default
+nav_order: 3
+---
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Submission
 nav_order: 6
 ---
 

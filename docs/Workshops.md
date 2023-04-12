@@ -1,6 +1,7 @@
 ---
-title: Migration and Upgrading
+title: Workshops
 layout: default
+nav_order: 4
 ---
 
 # Migrating and Upgrading

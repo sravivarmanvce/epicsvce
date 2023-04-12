@@ -1,7 +1,7 @@
 ---
-layout: minimal
-title: Minimal layout test
-nav_exclude: true
+title: Registration
+layout: default
+nav_order: 8
 ---
 
 [Return to main website]({{site.baseurl}}/).

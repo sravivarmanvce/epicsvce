@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Configuration
-nav_order: 2
+title: Committee
+nav_order: 5
 ---
 
 # Configuration
