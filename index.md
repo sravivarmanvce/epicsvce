@@ -27,7 +27,7 @@ The 2nd International Conference on Smart systems and Green energy Technologies 
 
 
 
-### Important Dates
+## Important Dates
 
 | Full Paper Submission Deadline        | August 15, 2023|
 | Review Notification                   | September 15, 2023|
