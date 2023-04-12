@@ -54,7 +54,7 @@ exclude:
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
@@ -80,7 +80,7 @@ search:
   button: false
 
 # For copy button on code
-enable_copy_code_button: true
+enable_copy_code_button: false
 
 # To disable support for mermaid diagrams (https://mermaid.js.org),
 # comment out the `mermaid` and `version` keys below
@@ -99,11 +99,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "ICSGET 2022":
+    - "https://icsget.com/icsget2022"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
