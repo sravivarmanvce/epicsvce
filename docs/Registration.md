@@ -13,7 +13,7 @@ nav_order: 8
 |Faculty                     |₹ 5000/-       |100 USD|
 |Industry                    |₹ 6000/-       |150 USD|
 
-Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using Google Pay or Phone Pe
+Payment of fees must accompany all registration forms. Your registration WILL NOT be confirmed until payment is received in full. The Authors are requested to pay the Registration Fees using UPI (Google Pay, Phone Pe, etc.).
 
 ## Account Details
 

@@ -24,13 +24,15 @@ Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism
 
 ### Template (for papers)
 
-We recommend authors use WORD or LaTeX template (Latex, however, is preferred). For complete information, follow the link: CCIS, Springer Nature (Approval Pending).https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi
+We recommend authors use WORD or LaTeX template (Latex, however, is preferred). For complete information, follow the link: CCIS, Springer Nature (Approval Pending).<br> [https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi]
 
 ### Submission guidelines
 
 Three different types of submissions are expected: 1) regular paper, 2) invited paper, and 3) position paper.<br>
 **Regular paper (8 - 15 pages):** Authors should clearly identify the problem, explain their contribution(s), and justify the state-of-the-art works.<br>
+
 **Invited paper (8 - 15 pages):** Besides regular submissions, well-known research scientists and professors are invited. To be specific, we aim to collect research manuscripts that can portray "years of research experience" plus "challenges and future trends" in those topics mentioned in the CFP. The primary reason behind this is to improve the quality of the conference proceedings. The (ICSGET) team strongly encourages them to submit their abstract as soon as possible to see whether it is appropriate.<br>
+
 **Position paper (6 - 8 pages):** We are also accepting the position papers for poster presentation and scientific discussion during the event, from early-career research scientists, MPhil, MTech and BTech students. This brings an opportunity for them to meet established research scientists/professors. Therefore, the (ICSGET) team strongly suggests participating. In general, such position papers should portray a short report of work in progress or an arguable opinion about facts, methods, procedures, or scientific research results. These papers can also be published in CCIS, Springer (Approval Pending) if the area chairs recommend doing so.<br>
 
 {: .highlight }
