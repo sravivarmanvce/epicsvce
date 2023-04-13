@@ -9,17 +9,17 @@ nav_order: 5
 ### ICSGET 2022 - Organizing Committee
 ---
 ### Chief Patron
-Dr. T. Vijender Reddy	Chairman, Vardhaman College of Engineering, Hyderabad, India<br>
-Sri M. Rajasekhar Reddy	Vice Chairman, Vardhaman College of Engineering, Hyderabad, India<br>
-Sri T. Upender Reddy	Secretary, Vardhaman College of Engineering, Hyderabad, India<br>
-Sri E. Prabhakar Reddy	Treasurer, Vardhaman College of Engineering, Hyderabad, India<br>
+Dr. T. Vijender Reddy, Chairman, Vardhaman College of Engineering, Hyderabad, India<br>
+Sri M. Rajasekhar Reddy, Vice Chairman, Vardhaman College of Engineering, Hyderabad, India<br>
+Sri T. Upender Reddy, Secretary, Vardhaman College of Engineering, Hyderabad, India<br>
+Sri E. Prabhakar Reddy, Treasurer, Vardhaman College of Engineering, Hyderabad, India<br>
 
 ### Patron
-Dr. JVR Ravindra	Principal, Vardhaman College of Engineering, Hyderabad, India<br>
+Dr. JVR Ravindra, Principal, Vardhaman College of Engineering, Hyderabad, India<br>
 
 ### General Chair
 Sanjeevikumar Padmanabhan (Aarhus University, Denmark)<br>
-Abdelkrim Haqiq, (FST, Hassan 1st University, Settat, Morocco)<br>
+Abdelkrim Haqiq (FST, Hassan 1st University, Settat, Morocco)<br>
 M. A. Jabbar (Vardhaman College of Engineering, India)<br>
 MD Asif (Vardhaman College of Engineering, India)<br>
 
@@ -116,7 +116,7 @@ S. Ravivarman (Vardhaman College of Engineering, India)<br>
 ### Special Session Chair
 Ana Maria Madureira (Institute of Engineering-Polytechnique of Porto, Portugal)<br>
 Hilal Arsalan (Izmir Bakircay University, Turkey)<br>
-K. Muruga Perumal, (Vardhaman College of Engineering, India)<br>
+K. Muruga Perumal (Vardhaman College of Engineering, India)<br>
 
 ### Organizing Committee
 Loveleen Gaur (Amity University, India)<br>
