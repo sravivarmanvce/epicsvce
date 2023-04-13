@@ -24,7 +24,7 @@ Also, note that the (ICSGET) team takes care of plagiarism (even self-plagiarism
 
 ### Template (for papers)
 
-We recommend authors use WORD or LaTeX template (Latex, however, is preferred). For complete information, follow the link: CCIS, Springer Nature (Approval Pending).<br> (https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)
+We recommend authors use WORD or LaTeX template (Latex, however, is preferred). For complete information, follow the link: CCIS, Springer Nature (Approval Pending).<br> [https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)
 
 ### Submission guidelines
 
