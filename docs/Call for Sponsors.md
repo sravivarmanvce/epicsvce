@@ -23,4 +23,4 @@ In this sponsorship, the sponsor will be offered to present an Industry/Sponsors
 All industry/sponsor talks will be open to all participants without any registration. All sponsors will be named in the starting and closing session of the conference.
 
 
-**Contact Person :** [akhiljabbar.meerja@vardhaman.org]
+**Contact Person :** (akhiljabbar.meerja@vardhaman.org)

@@ -8,7 +8,7 @@ nav_order: 10
 ---
 ### For Queries
 <br>
-## **Contact Email: [icsget@vardhaman.org]**
+## **Contact Email: (icsget@vardhaman.org)**
 
 
 Dr. N. Karuppiah<br>
