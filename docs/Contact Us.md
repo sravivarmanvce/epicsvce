@@ -1,5 +1,5 @@
 ---
-title: Workshops
+title: Contact Us
 layout: default
 nav_order: 10
 ---

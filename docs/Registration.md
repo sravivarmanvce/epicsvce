@@ -6,7 +6,7 @@ nav_order: 8
 ![](../../assets/images/bg_windmill.jpg)
 ## Registration
 ---
-##Registration Fee
+## Registration Fee
 |Type of Author	             |Indian Authors |Foreign Authors|
 |Students/ Research Scholars |₹ 4500/-       |75 USD|
 |Faculty                     |₹ 5000/-       |100 USD|
@@ -23,7 +23,8 @@ Payment of fees must accompany all registration forms. Your registration WILL NO
 |MICR Code      |500016022|
 
 
-Registration Link: 
+## Registration Link 
+**TBA**
 
 {: .highlight }
-To register under Student category, He /She must be the first author and have to produce their college ID during Registration.
+To register under Student category, He/She must be the first author and have to produce their college ID during Registration.
