@@ -7,6 +7,14 @@ nav_order: 7
 ## Speakers
 ---
 
-| ![](../../assets/images/sanjeevikumar.jpg) | ![](../../assets/images/speaker1.jpg)   | ![](../../assets/images/speaker2.jpg) |
-| Dr. Sanjeevikumar Padmanaban               | Dr. Deepak Reddy Pullaguram             | Dr. G. N. Srinivas |
-| Professor, Aarhus University, Denmark      | Assistant Professor, EEE, IIT Kharagpur | Professor, JNTU, Sultanpur |
+![](../../assets/images/sanjeevikumar.jpg)
+**Dr. Sanjeevikumar Padmanaban**
+Professor, Aarhus University, Denmark
+
+![](../../assets/images/speaker1.jpg)
+**Dr. Deepak Reddy Pullaguram**
+Assistant Professor, EEE, IIT Kharagpur
+
+![](../../assets/images/speaker2.jpg)
+**Dr. G. N. Srinivas**
+Professor, JNTU, Sultanpur
