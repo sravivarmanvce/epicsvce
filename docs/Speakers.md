@@ -8,14 +8,14 @@ nav_order: 7
 ---
 <p align="center">
 <img width="300" height="300" src="../../assets/images/speaker1.jpg"><br>
-<bold>Dr. Sanjeevikumar Padmanaban</bold><br>
+<b>Dr. Sanjeevikumar Padmanaban</b><br>
 Professor, Aarhus University, Denmark<br>
 <p>&nbsp;</p>
 <img width="300" height="300" src="../../assets/images/speaker2.jpg"><br>
-<bold>Dr. Deepak Reddy Pullaguram</bold><br>
+<b>Dr. Deepak Reddy Pullaguram</b><br>
 Assistant Professor, EEE, IIT Kharagpur<br>
 <p>&nbsp;</p>
 <img width="300" height="300" src="../../assets/images/speaker3.jpg"><br>
-<bold>Dr. G. N. Srinivas</bold><br>
+<b>Dr. G. N. Srinivas</b><br>
 Professor, JNTU, Sultanpur<br>
 </p>
