@@ -8,8 +8,8 @@ nav_order: 7
 ---
 <p align="center">
 <img width="300" height="300" src="../../assets/images/speaker1.jpg"><br>
-<b>Dr. Sanjeevikumar Padmanaban</b><br>
-Professor, Aarhus University, Denmark<br>
+<b>Hassan Haes Alhelou</b><br>
+Monash University, Melbourne, Victoria, Australia<br>
 &nbsp;</p>
 <p align="center">
 <img width="300" height="300" src="../../assets/images/speaker2.jpg"><br>
