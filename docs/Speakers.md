@@ -6,7 +6,6 @@ nav_order: 7
 ![](../../assets/images/bg_windmill.jpg)
 ## Speakers
 ---
-<p align="center">
 ![](../../assets/images/speaker1.jpg)<br>
 **Dr. Sanjeevikumar Padmanaban**<br>
 Professor, Aarhus University, Denmark<br>
@@ -18,4 +17,3 @@ Assistant Professor, EEE, IIT Kharagpur<br>
 ![](../../assets/images/speaker3.jpg)<br>
 **Dr. G. N. Srinivas**<br>
 Professor, JNTU, Sultanpur<br>
-</p>
