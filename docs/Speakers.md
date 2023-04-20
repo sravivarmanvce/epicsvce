@@ -8,16 +8,16 @@ nav_order: 7
 ---
 <p align="center">
 <img width="300" height="300" src="../../assets/images/speaker1.jpg"><br>
-<b>Hassan Haes Alhelou</b><br>
+<b>Dr. Hassan Haes Alhelou</b><br>
 Monash University, Melbourne, Victoria, Australia<br>
 &nbsp;</p>
 <p align="center">
 <img width="300" height="300" src="../../assets/images/speaker2.jpg"><br>
-<b>Dr. Deepak Reddy Pullaguram</b><br>
-Assistant Professor, EEE, IIT Kharagpur<br>
+<b>Dr. Saad Motahhir</b><br>
+ENSA, Fez, Morocco<br>
 &nbsp;</p>
 <p align="center">
 <img width="300" height="300" src="../../assets/images/speaker3.jpg"><br>
-<b>Dr. G. N. Srinivas</b><br>
-Professor, JNTU, Sultanpur<br>
+<b>Dr. Santosh Janaki Raman</b><br>
+Computational Scientist, CEMWorks Inc., Canada<br>
 </p>
