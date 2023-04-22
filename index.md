@@ -21,11 +21,15 @@ background: '/img/bg-index.jpg'
 </div>
 {% endif %}
 
+<p></p>
+
 ## EPICS @ VARDHAMAN
-<p align="justify">VCE - Engineering Projects in community Services (VISn @ V – Viable Innovative Solutions for community needs at Vardhaman) is one of the best practices in Vardhaman Campus. EPICS is a unique programme in which teams of undergraduates design, build, and deploy real systems to solve engineering problems for local community service and educational organizations.The programme focuses on identifying the needs of the society and providing a viable and sustainable solution. </p>
+<p align="justify">VCE - Engineering Projects in community Services (VISn @ V – Viable Innovative Solutions for community needs at Vardhaman) is one of the best practices in Vardhaman Campus. EPICS is a unique programme in which teams of undergraduates design, build, and deploy real systems to solve engineering problems for local community service and educational organizations.The programme focuses on identifying the needs of the society and providing a viable and sustainable solution.</p>
+<p></p>
 
 ---
 
+<p></p>
 <div class="container">
 	<div class="row justify-content-between">
 		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
@@ -41,11 +45,11 @@ background: '/img/bg-index.jpg'
 		</div>
 	</div>
 </div>
+<p></p>
 
-#### Objectives
-* To meet the vision of the college to address the societal issues and to make the students socially responsible.
-* To provide aa viable solution for the problems identified in the community partner.
+---
 
+<p></p>
 #### EPICS in Curriculum
 <p align="justify">Initially EPICS was a non-credit programme and was carried out for six hours in a week where the students were motivated to come voluntarily and work on the societal issues that they identified. Students went for a survey in their first year and identified the problems in villages and they started working on the solutions. To carry out this programme faculty got trained from Dr. William Oakes, Director of EPICS,Purdue University, Using online and offline mode. Initially an EPICS workshop was conducted by Dr.Oakes to get a basic idea, and 15 faculty got certified on Design Thinking, a six-month course. 15 faculty are the mentors for the students. In April 2018 Vardhaman has signed an MOU with EPICS in IEEE and EPICS, Purdue University to make V-EPICS a part of curriculum. As a result,now EPICS has become a part of our Curriculum with four courses in the R18 regulations and revised year by year improving the content and also the making the things better for learning.</p>
 
