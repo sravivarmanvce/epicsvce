@@ -56,7 +56,8 @@ a {
     text-decoration:none;
     transition: all .4s;
     &:hover {
-        text-decoration:none;
+        text-decoration:underline;
+		color: orange:
         color:inherit;
         transition: all .4s;
     }
