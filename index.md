@@ -81,9 +81,6 @@ background: '/img/bg-index.jpg'
 
 &nbsp;
 
-#### EPICS History
-
-
 #### The Context
 The major challenge is to bring the two groups together in a mutually beneficial way (the Students and the Community). It was specifically to address this challenge that the V-EPICS programme was launched. The V-EPICS programme connects engineering with community service in four verticals of community improvement effort as defined by EPICS in IEEE:
 
