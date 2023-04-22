@@ -52,12 +52,12 @@ h4, .h4, h5, .h5 {
     font-weight:600 !important;
 }
 a {
-    color:inherit;
-    text-decoration:underline;
+    color:blue;
+    text-decoration:none;
     transition: all .4s;
     &:hover {
-        text-decoration:none;
-		color:orange;
+        text-decoration:underline;
+		color:red;
         transition: all .4s;
     }
 }
