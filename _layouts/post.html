@@ -1,106 +1,119 @@
 ---
-layout: compress
+layout: default
+disqus: false
+archive: false
+post_class: post-template
 ---
-<html lang="{{ page.lang | default: site.lang | default: "en_US" }}">
 
-{% include head.html %}
+<!-- Begin Article
+================================================== -->
 
-<body class="site">
+	<div class="row">
+		
 
-{% if site.google_tag_manager %}
+		<!-- Post -->        
+        {% assign author = site.authors[page.author] %}
+        
+		<div class="col-sm-8">
+            <!-- Post Featured Image -->
+			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+			<!-- End Featured Image -->
+			<div class="mainheading">             
+                
+                <!-- Post Categories -->
+                <div class="after-post-tags">
+                    <ul class="tags">
+                        {% assign sortedCategories = page.categories | sort %}
+                        {% for category in sortedCategories %}
+                        <li>
+                         <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!-- End Categories -->
+                
+                <!-- Post Title -->
+				<h1 class="posttitle">{{ page.title }}</h1> 
+                
+			</div>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+			
 
-{% endif %}
+			<!-- Post Content -->
+			<div class="article-post serif-font">
+				{{content}}
+                <div class="clearfix"></div>
+			</div>
 
-{% include header.html %}
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                {% if page.last_modified_at %}
+                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                {% endif %}
+                </small>
+            </p>
+            
+			
+            
+            <!-- Prev/Next -->
+            <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
+              {% if page.previous.url %}
+                <div class="col-md-6 rightborder pl-0">
+                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
+                </div>
+              {% endif %}
+              {% if page.next.url %}
+                <div class="col-md-6 text-right pr-0">
+                    <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
+                </div>
+              {% endif %}
+            </div>
+            <!-- End Prev/Next -->
+            
+            
+             <!-- Author Box -->
+                {% if page.author %}				
+				<div class="row post-top-meta">
+					<div class="col-md-2">
+						<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
+					</div>
+					<div class="col-md-10">
+						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+						<span class="author-description">{{ author.description }}</span>						
+					</div>
+				</div>				
+                {% endif %}
+            
+            
+            <!-- Begin Comments
+            ================================================== -->
+            <section>
+            <div id="comments">                          
+                {% include disqus.html %} 
+            </div>
+            </section>
+            <!--End Comments
+            ================================================== -->
+            
+            
 
-  {% if page.featured-img %}
+		</div>
+		<!-- End Post -->
 
-  <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/{{page.featured-img}}.jpg">
-    {% else %}
-    <div class="hero dark-bg">
-      {% endif %}
-      <div class="hero__wrap">
-        <h1 class="hero__title">{{ page.title }}</h1>
-        <p class="hero__meta">
-            <span>
-              <time>{{ page.date | date_to_string }}</time>&nbsp;
-            </span>
-          <span>
-              {% assign words = content | number_of_words %}
-                {% if words < 360 %}
-                  1 min
-                {% else %}
-                  {{ words | divided_by:180 }} mins
-              {% endif %} read
-              &nbsp;
-          </span>
-        </p>
-      </div>
-    </div>
-  </div>
 
-  <main class="site__content">
-    <div class="container">
-      <article class="post-content" itemprop="articleBody">
+        
 
-        {{ content }}
+		<!-- Sidebar -->
+        <div class="col-sm-4">
+            {% include sidebar.html %}
+            </div>
+        
+        
 
-      </article>
-      <div class="post-content controls__inner">
-        <div class="controls__item prev">
-          {% if page.previous.url %}
+	</div>
 
-          <span>Previous</span>
-          <a href="{{page.previous.url | relative_url }}">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
-                    <path fill="fillColor" d="M5.647 1.718c.37-.434.323-1.09-.106-1.465A1.016 1.016 0 0 0 4.095.36L.25 4.875a1.05 1.05 0 0 0 .017 1.378l3.95 4.407c.38.424 1.03.456 1.448.07a1.05 1.05 0 0 0 .07-1.468l-3.34-3.725 3.253-3.819z"/>
-                  </svg>
-              </span>
-            {{page.previous.title | strip_html | truncate: 30}}
-          </a>
-          {% endif %}
-        </div>
-
-        <div class="controls__item next">
-          {% if page.next.url %}
-          <span>Next</span>
-          <a href="{{page.next.url | relative_url }}">
-            {{page.next.title | strip_html | truncate: 30}}
-            <span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
-                  <path fill="#fillColor" d="M.353 9.282c-.37.434-.323 1.09.106 1.465a1.016 1.016 0 0 0 1.446-.107L5.75 6.125a1.05 1.05 0 0 0-.017-1.378L1.784.34A1.015 1.015 0 0 0 .336.27a1.05 1.05 0 0 0-.07 1.468l3.34 3.725L.353 9.282z"/>
-                </svg>
-              </span>
-          </a>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-
-    {% if site.disqus.shortname %}
-
-    <div class="comments">
-      <div class="container">
-        <div class="post-content">
-
-          {% include disqus.html %}
-
-        </div>
-      </div>
-    </div>
-
-    {% endif %}
-
-  </main>
-
-  {% include footer.html %}
-
-</body>
-
-</html>
+<!-- End Article
+================================================== -->

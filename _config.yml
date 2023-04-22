@@ -1,50 +1,56 @@
-title: EPICS # your site title
-author: Ravivarman
-email: epics@vardhaman.org # email for form submission, you also have to change it in _js/scripts.js
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sravivarmanvce.github.io/temp" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
-social:
-  name: Vardhaman
-  links:
-    - https://twitter.com/vardhaman
-    - https://www.facebook.com/vardhaman
-    - https://www.linkedin.com/in/vardhaman
-    - https://plus.google.com/+vardhaman
-    - https://github.com/vardhaman
-    - https://keybase.io/vardhaman
-
-disqus:
-  shortname: vardhaman # to enable comments replace with your_disqus_shortname
-
-# Build settings
+title: "EPICS"
+email: epics@vardhaman.org
+timezone: IST
+baseurl: "/temp"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
 markdown: kramdown
-highlighter: rouge # or pygments or null
-#theme: jekyll-sleek
-exclude:
-  - README.md
-  - node_modules
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - npm-debug.log
-  - gulpfile.js
-  - sleek.png
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
 
-include: ['_pages']
-permalink: /:title/
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    avatar: 'assets/images/sal.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John
+    avatar: 'assets/images/john.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
-compress_html:
-  clippings: all
+# Social
+social:
+  instagram: https://www.instagram.com/vardhaman/
+  facebook: https://www.facebook.com/vardhaman
+  twitter: https://twitter.com/vardhaman
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

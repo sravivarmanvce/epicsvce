@@ -1,42 +1,28 @@
 ---
-layout: compress
+layout: default
 ---
-<html lang="{{ page.lang | default: site.lang | default: "en_US" }}">
+<!-- Post Featured Image -->
+{% if page.image %}
+<div class="text-center mx-auto mb-5">
+  <img class="featured-image text-center mx-auto rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+</div>
+{% endif %}
+<!-- End Featured Image -->
 
-  {% include head.html %}
+<div class="col-lg-8 mx-auto">
 
-  <body class="site">
+  <div class="mainheading">
+    <h1 class="posttitle">{{ page.title }}</h1>
+  </div>
 
-    {% if site.google_tag_manager %}
+  <div class="article-post serif-font">
+    {{content}}
+  </div>
 
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
+  {% if page.comments == true %}
+  <div id="comments">             
+      {% include disqus.html %} 
+  </div>
+  {% endif %}
 
-    {% endif %}
-
-    {% include header.html %}
-
-    <div class="hero--small">
-      <div class="hero__wrap">
-        <h1 class="hero__title">{{ page.title }}</h1>
-      </div>
-    </div>
-    <main class="site__content">
-
-      <div class="container">
-        <div class="page-content">
-
-          {{ content }}
-
-        </div>
-      </div>
-
-    </main>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+</div>
