@@ -29,12 +29,12 @@ background: '/img/bg-index.jpg'
 <div class="container">
 <div class="row justify-content-between">
 <div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-<img src="assets/images/sdg.jpg" class="img-fluid aos-init aos-animate" alt="" data-aos="zoom-in">
+<img src="assets/images/sdg.jpg">
 </div>
 <div class="col-lg-6 pt-5 pt-lg-0">
-<h3 data-aos="fade-up" class="aos-init aos-animate">Milestones in the Journey of EPICS at Vardhaman</h3>
-<p data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">
-</p><h5><b>OBJECTIVES:</b></h5>
+<h3>Milestones in the Journey of EPICS at Vardhaman</h3>
+<p>
+</p><h5><b>OBJECTIVES</b></h5>
 <p></p>
 <div class="row">
 <ul>
@@ -42,7 +42,7 @@ background: '/img/bg-index.jpg'
 <li>To provide aa viable solution for the problems identified in the community partner.
 </li>
 </ul>
-<p data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">
+<p>
 </p><h5><b>STORIES &amp; PROFILES</b></h5>
 <p></p>
 <div class="row">
