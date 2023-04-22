@@ -24,12 +24,43 @@ background: '/img/bg-index.jpg'
 ## EPICS @ VARDHAMAN
 <p align="justify">VCE - Engineering Projects in community Services (VISn @ V – Viable Innovative Solutions for community needs at Vardhaman) is one of the best practices in Vardhaman Campus. EPICS is a unique programme in which teams of undergraduates design, build, and deploy real systems to solve engineering problems for local community service and educational organizations.The programme focuses on identifying the needs of the society and providing a viable and sustainable solution. </p>
 
+<div class="container">
+<div class="row justify-content-between">
+<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
+<img src="assets/img/img.jpg" class="img-fluid aos-init aos-animate" alt="" data-aos="zoom-in">
+</div>
+<div class="col-lg-6 pt-5 pt-lg-0">
+<h3 data-aos="fade-up" class="aos-init aos-animate">Milestones in the Journey of EPICS at Vardhaman</h3>
+<p data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">
+</p><h5><b>OBJECTIVES:</b></h5>
+<p></p>
+<div class="row">
+<ul>
+<li>To meet the vision of the college to address the societal issues and to make the students socially responsible.</li>
+<li>To provide aa viable solution for the problems identified in the community partner.
+</li>
+</ul>
+<p data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">
+</p><h5><b>STORIES &amp; PROFILES</b></h5>
+<p></p>
+<div class="row">
+<ul>
+<li>As a part of pilot programme from 2014 to 2016 initially students paidpaid community visits, identified the problem statement andeddefined the solution in the form of prototyping.
+</li>
+<li>From 2017 the implementation phase has started and as a part of it four different projects and processes have been successfully completed. All together there were 29 projects taken up of which, ten projects were successfully completed and Six wewere adopted by the government sectors and remaining eight are in the implementation phase.
+</li>
+</ul>
+</div>
+</div>
+</div></div></div>
+
+
 #### Objectives
 * To meet the vision of the college to address the societal issues and to make the students socially responsible.
 * To provide aa viable solution for the problems identified in the community partner.
 
 #### EPICS in Curriculum
-Initially EPICS was a non-credit programme and was carried out for six hours in a week where the students were motivated to come voluntarily and work on the societal issues that they identified. Students went for a survey in their first year and identified the problems in villages and they started working on the solutions. To carry out this programme faculty got trained from Dr. William Oakes, Director of EPICS,Purdue University, Using online and offline mode. Initially an EPICS workshop was conducted by Dr.Oakes to get a basic idea, and 15 faculty got certified on Design Thinking, a six-month course. 15 faculty are the mentors for the students. In April 2018 Vardhaman has signed an MOU with EPICS in IEEE and EPICS, Purdue University to make V-EPICS a part of curriculum. As a result,now EPICS has become a part of our Curriculum with four courses in the R18 regulations and revised year by year improving the content and also the making the things better for learning.
+<p align="justify">Initially EPICS was a non-credit programme and was carried out for six hours in a week where the students were motivated to come voluntarily and work on the societal issues that they identified. Students went for a survey in their first year and identified the problems in villages and they started working on the solutions. To carry out this programme faculty got trained from Dr. William Oakes, Director of EPICS,Purdue University, Using online and offline mode. Initially an EPICS workshop was conducted by Dr.Oakes to get a basic idea, and 15 faculty got certified on Design Thinking, a six-month course. 15 faculty are the mentors for the students. In April 2018 Vardhaman has signed an MOU with EPICS in IEEE and EPICS, Purdue University to make V-EPICS a part of curriculum. As a result,now EPICS has become a part of our Curriculum with four courses in the R18 regulations and revised year by year improving the content and also the making the things better for learning.</p>
 
 #### Featured Projects
 
