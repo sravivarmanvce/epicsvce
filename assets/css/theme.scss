@@ -53,12 +53,11 @@ h4, .h4, h5, .h5 {
 }
 a {
     color:inherit;
-    text-decoration:none;
+    text-decoration:underline;
     transition: all .4s;
     &:hover {
-        text-decoration:underline;
-		color: orange:
-        color:inherit;
+        text-decoration:none;
+		color:orange;
         transition: all .4s;
     }
 }
