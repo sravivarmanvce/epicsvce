@@ -27,35 +27,16 @@ background: '/img/bg-index.jpg'
 ---
 
 <div class="container">
-<div class="row justify-content-between">
-<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-<img src="assets/images/sdg.jpg">
+	<div class="row justify-content-between">
+		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
+			<img src="assets/images/sdg.jpg">
+		</div>
+		<div class="col-lg-6 pt-5 pt-lg-0">
+			<h3>Milestones in the Journey of EPICS at Vardhaman</h3>
+			<p></p><h5><b>Objectives</b></h5>
+		</div>
+	</div>
 </div>
-<div class="col-lg-6 pt-5 pt-lg-0">
-<h3>Milestones in the Journey of EPICS at Vardhaman</h3>
-<p>
-</p><h5><b>OBJECTIVES</b></h5>
-<p></p>
-<div class="row">
-<ul>
-<li>To meet the vision of the college to address the societal issues and to make the students socially responsible.</li>
-<li>To provide aa viable solution for the problems identified in the community partner.
-</li>
-</ul>
-<p>
-</p><h5><b>STORIES &amp; PROFILES</b></h5>
-<p></p>
-<div class="row">
-<ul>
-<li>As a part of pilot programme from 2014 to 2016 initially students paidpaid community visits, identified the problem statement andeddefined the solution in the form of prototyping.
-</li>
-<li>From 2017 the implementation phase has started and as a part of it four different projects and processes have been successfully completed. All together there were 29 projects taken up of which, ten projects were successfully completed and Six wewere adopted by the government sectors and remaining eight are in the implementation phase.
-</li>
-</ul>
-</div>
-</div>
-</div></div></div>
-
 
 #### Objectives
 * To meet the vision of the college to address the societal issues and to make the students socially responsible.
