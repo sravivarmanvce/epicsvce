@@ -24,6 +24,8 @@ background: '/img/bg-index.jpg'
 ## EPICS @ VARDHAMAN
 <p align="justify">VCE - Engineering Projects in community Services (VISn @ V – Viable Innovative Solutions for community needs at Vardhaman) is one of the best practices in Vardhaman Campus. EPICS is a unique programme in which teams of undergraduates design, build, and deploy real systems to solve engineering problems for local community service and educational organizations.The programme focuses on identifying the needs of the society and providing a viable and sustainable solution. </p>
 
+---
+
 <div class="container">
 <div class="row justify-content-between">
 <div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
