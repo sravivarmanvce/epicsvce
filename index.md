@@ -67,10 +67,7 @@ background: '/img/bg-index.jpg'
 		<div class="col-lg-6 pt-5 pt-lg-0">
 			<h3>EPICS History</h3>
 			<p></p>
-			<ul>
-				<li>To meet the vision of the college to address the societal issues and to make the students socially responsible.</li>  
-				<li>To provide aa viable solution for the problems identified in the community partner.</li>  
-			</ul>
+			EPICS stands for Engineering Projects in Community Service. The program was founded in 1995 at [Purdue University](https://engineering.purdue.edu/EPICS/). It was created to meet a two-fold challenge: providing community service organizations with technology they need to improve and deliver services, and providing undergraduate students with educational experiences to broaden their skills. The program has now spread to universities throughout the United States and abroad, as well several K-12 programs.
 		</div>
 		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
 			<img src="assets/images/purdue.jpg">
@@ -85,7 +82,7 @@ background: '/img/bg-index.jpg'
 &nbsp;
 
 #### EPICS History
-EPICS stands for Engineering Projects in Community Service. The program was founded in 1995 at Purdue University. It was created to meet a two-fold challenge: providing community service organizations with technology they need to improve and deliver services, and providing undergraduate students with educational experiences to broaden their skills. The program has now spread to universities throughout the United States and abroad, as well several K-12 programs.
+
 
 #### The Context
 The major challenge is to bring the two groups together in a mutually beneficial way (the Students and the Community). It was specifically to address this challenge that the V-EPICS programme was launched. The V-EPICS programme connects engineering with community service in four verticals of community improvement effort as defined by EPICS in IEEE:
