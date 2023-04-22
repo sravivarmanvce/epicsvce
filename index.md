@@ -32,8 +32,12 @@ background: '/img/bg-index.jpg'
 			<img src="assets/images/sdg.jpg">
 		</div>
 		<div class="col-lg-6 pt-5 pt-lg-0">
-			<h3>Milestones in the Journey of EPICS at Vardhaman</h3>
-			<p></p><h5><b>Objectives</b></h5>
+			<h3>Objectives</h3>
+			<p></p>
+			<ul>
+				<li>To meet the vision of the college to address the societal issues and to make the students socially responsible.</li>
+				<li>To provide aa viable solution for the problems identified in the community partner.</li>
+			</ul>
 		</div>
 	</div>
 </div>
