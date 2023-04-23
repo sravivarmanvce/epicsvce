@@ -105,8 +105,7 @@ The major challenge is to bring the two groups together in a mutually beneficial
                 <div class="card2__item"><h3>Environment</h3></div>
 					<div class="card2__item flexible">Engineering and science are key solutions to answering environmental issues. The evolution of technology brings changes in the environment creating the need for sustainability, with new ways to create electricity and energy, recycling and the use of renewable energy sources.</div>
             </div>
-        </div>
-		</div>
+        </div>		
 		
 		<div class="card2__wrap--inner">
             <div class="card2">
