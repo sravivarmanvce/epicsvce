@@ -125,16 +125,16 @@ The major challenge is to bring the two groups together in a mutually beneficial
 
 <div class="row">
   <div class="column">
-    <img src="assets/images/purdue.png" alt="Purdue University" style="width:50%">
+    <img src="assets/images/purdue.png" alt="Purdue University" style="height:50%">
   </div>
   <div class="column">
-    <img src="assets/images/ieee.png" alt="EPICS in IEEE" style="width:50%">
+    <img src="assets/images/ieee.png" alt="EPICS in IEEE" style="height:50%">
   </div>
   <div class="column">
-    <img src="assets/images/iucee.png" alt="IUCEE" style="width:50%">
+    <img src="assets/images/iucee.png" alt="IUCEE" style="height:50%">
   </div>
   <div class="column">
-    <img src="assets/images/unnat.png" alt="Unnat Bharat Abhiyan" style="width:50%">
+    <img src="assets/images/unnat.png" alt="Unnat Bharat Abhiyan" style="height:50%">
   </div>
 </div>
 
