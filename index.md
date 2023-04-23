@@ -32,7 +32,7 @@ background: '/img/bg-index.jpg'
 <div class="container">
 	<div class="row justify-content-between">
 		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-			<img src="assets/images/sdg.jpg">
+			<img alt="SDG" src="assets/images/sdg.jpg">
 		</div>
 		<div class="col-lg-6 pt-5 pt-lg-0">
 			<h3>Objectives</h3>
@@ -70,7 +70,7 @@ background: '/img/bg-index.jpg'
 			<p align="justify">EPICS stands for Engineering Projects in Community Service. The program was founded in 1995 at <a href="https://engineering.purdue.edu/EPICS/"  target="_blank"> Purdue University</a>. It was created to meet a two-fold challenge: providing community service organizations with technology they need to improve and deliver services, and providing undergraduate students with educational experiences to broaden their skills. The program has now spread to universities throughout the United States and abroad, as well several K-12 programs.</p>
 		</div>
 		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-			<img src="assets/images/purdue.jpg">
+			<img alt="Purdue" src="assets/images/purdue.jpg">
 		</div>
 
 	</div>
