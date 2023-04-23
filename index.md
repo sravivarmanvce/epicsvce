@@ -88,100 +88,32 @@ The major challenge is to bring the two groups together in a mutually beneficial
 <div class="card2__wrap--outer">
         <div class="card2__wrap--inner">
             <div class="card2">
-                <div class="card2__item">
-                    <h2>First Card Title</h2>
-                </div>
-								<div class="card2__sub">
-										<small>New York</small>
-								</div>
-								<div class="card2__item flexible">
-										Vexillologist mustache heirloom plaid adaptogen subway tile. Biodiesel microdosing pinterest, cloud bread vice kickstarter pickled PBR&B. Prism palo santo craft beer cold-pressed, heirloom tofu snackwave fashion axe ramps iPhone.
-								</div>
-								<div class="card2__item">
-										<small>Reading Time: 4min</small>
-								</div>
-								<div class="card2__footer">
-									<a class="pull" href="#"><small>Read more</small></a>
-									<a class="push" href="#"><small>Share</small></a>
-								</div>
+                <div class="card2__item"><h3>Access and Abilities</h3></div>
+					<div class="card2__item flexible">By bringing together student branches at universities, secondary students and non-profit organizations, there is a greater ability to solve accessibility issues within communities. As students learn to help their community or country through engineering projects, non-profit organizations establish themselves in order to maintain new and profound change. The Access and Abilities projects help enable adaptive services, clinics for those in need (such as children with disabilities), me for adults and assistive technologies.</div>
             </div>
         </div>
 			
-			<div class="card2__wrap--inner">
+		<div class="card2__wrap--inner">
             <div class="card2">
-                <div class="card2__item">
-                    <h2>Second Card Title</h2>
-                </div>
-								<div class="card2__sub">
-										<small>Paris</small>
-								</div>
-								<div class="card2__item  flexible">
-										<small>Celiac pour-over fanny pack, adaptogen yuccie trust fund tote bag man braid activated charcoal narwhal church-key crucifix. Farm-to-table sartorial retro snackwave mixtape, live-edge 8-bit activated charcoal art party succulents. Crucifix actually try-hard wayfarers echo park skateboard, street art shaman intelligentsia humblebrag celiac umami farm-to-table.</small>
-								</div>
-								<div class="card2__item">
-										<small>Reading Time: 2min</small>
-								</div>
-								<div class="card2__footer">
-									<a class="pull" href="#"><small>Read more</small></a>
-									<a class="push" href="#"><small>Share</small></a>
-								</div>
+                <div class="card2__item"><h3>Education and Outreach</h3></div>
+					<div class="card2__item  flexible">To help young students and to discover the benefits of science, math, technology and engineering for their future, many projects give students hands-on experience in order to stimulate their interests in those fields. Communities and schools lacking in strong engineering programmes gain new curriculum along with new facilities in which to explore new areas of the topic.</div>
             </div>
         </div>
 			
-			<div class="card2__wrap--inner">
+		<div class="card2__wrap--inner">
             <div class="card2">
-                <div class="card2__item">
-                    <h2>Third Card Title</h2>
-                </div>
-								<div class="card2__sub">
-										<small>London</small>
-								</div>
-								<div class="card2__item flexible">
-										<small>VTbh four loko YOLO listicle forage messenger bag aesthetic williamsburg franzen kitsch iceland ethical venmo man braid poutine</small>
-								</div>
-								<div class="card2__item">
-										<small>Reading Time: 8min</small>
-								</div>
-								<div class="card2__footer">
-									<a class="pull" href="#"><small>Read more</small></a>
-									<a class="push" href="#"><small>Share</small></a>
-								</div>
+                <div class="card2__item"><h3>Environment</h3></div>
+					<div class="card2__item flexible">Engineering and science are key solutions to answering environmental issues. The evolution of technology brings changes in the environment creating the need for sustainability, with new ways to create electricity and energy, recycling and the use of renewable energy sources.</div>
             </div>
         </div>
 		</div>
-			<div class="card2__wrap--inner">
+		
+		<div class="card2__wrap--inner">
             <div class="card2">
-                <div class="card2__item">
-                    <h2>Third Card Title</h2>
-                </div>
-								<div class="card2__sub">
-										<small>London</small>
-								</div>
-								<div class="card2__item flexible">
-										<small>VTbh four loko YOLO listicle forage messenger bag aesthetic williamsburg franzen kitsch iceland ethical venmo man braid poutine</small>
-								</div>
-								<div class="card2__item">
-										<small>Reading Time: 8min</small>
-								</div>
-								<div class="card2__footer">
-									<a class="pull" href="#"><small>Read more</small></a>
-									<a class="push" href="#"><small>Share</small></a>
-								</div>
+                <div class="card2__item"><h3>Human Services</h3></div>
+					<div class="card2__item flexible">Includes homelessness prevention, affordable housing, family and children agencies, neighborhood revitalization and local government.</div>
             </div>
         </div>
-    </div>
+</div>
 
 
-
-
-###### Access and Abilities
-By bringing together student branches at universities, secondary students and non-profit organizations, there is a greater ability to solve accessibility issues within communities. As students learn to help their community or country through engineering projects, non-profit organizations establish themselves in order to maintain new and profound change. The Access and Abilities projects help enable adaptive services, clinics for those in need (such as children with disabilities), me for adults and assistive technologies.
-
-###### Education and Outreach
-To help young students and to discover the benefits of science, math, technology and engineering for their future, many projects give students hands-on experience in order to stimulate their interests in those fields. Communities and schools lacking in strong engineering programmes gain new curriculum along with new facilities in which to explore new areas of the topic.
-
-###### Environment
-Engineering and science are key solutions to answering environmental issues. The evolution of technology brings changes in the environment creating the need for sustainability, with new ways to create electricity and energy, recycling and the use of renewable energy sources.
-
-###### Human Services
-Includes homelessness prevention, affordable housing, family and children agencies, neighborhood revitalization and local government.
