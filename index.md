@@ -70,7 +70,7 @@ background: '/img/bg-index.jpg'
 			<p align="justify">EPICS stands for Engineering Projects in Community Service. The program was founded in 1995 at <a href="https://engineering.purdue.edu/EPICS/"  target="_blank"> Purdue University</a>. It was created to meet a two-fold challenge: providing community service organizations with technology they need to improve and deliver services, and providing undergraduate students with educational experiences to broaden their skills. The program has now spread to universities throughout the United States and abroad, as well several K-12 programs.</p>
 		</div>
 		<div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-			<img alt="Purdue" src="assets/images/purdue.jpg">
+			<img alt="Purdue" src="assets/images/purdue_univ.jpg">
 		</div>
 
 	</div>
@@ -114,4 +114,35 @@ The major challenge is to bring the two groups together in a mutually beneficial
             </div>
         </div>
 </div>
+&nbsp;
 
+---
+
+&nbsp;
+
+####Collaborations and Community Partners
+
+<div class="carousel footer-gallery">
+    <div class="mask">
+        <div class="slideset">
+            <div class="slide">
+                <ul class="slide-holder">
+                    <li><a href="#"><img src="assets/images/purdue.png" alt="image description" width="269" height="150"></a></li>
+                    <li><a href="#"><img src="assets/images/ieee.png" alt="image description" width="269" height="150"></a></li>
+                    <li><a href="#"><img src="assets/images/iucee.png" alt="image description" width="269" height="150"></a></li>
+                    <li><a href="#"><img src="assets/images/unnat.png" alt="image description" width="269" height="150"></a></li>
+                </ul>
+            </div>
+            <div class="slide">
+                <ul class="slide-holder">
+                    <li><a href="#"><img src="assets/images/purdue.png" alt="image description" width="269" height="150"></a></li>
+                    <li><a href="#"><img src="assets/images/iee.png" alt="image description" width="269" height="150"></a></li>
+                    <li><a href="#"><img src="assets/images/iucee.png" alt="image description" width="269" height="150"></a></li>
+                    <li><a href="#"><img src="assets/images/unnat.png" alt="image description" width="269" height="150"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <a class="btn-prev" href="#">Previous</a>
+    <a class="btn-next" href="#">Next</a>
+</div>
