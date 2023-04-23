@@ -84,6 +84,75 @@ background: '/img/bg-index.jpg'
 #### The Context
 The major challenge is to bring the two groups together in a mutually beneficial way (the Students and the Community). It was specifically to address this challenge that the V-EPICS programme was launched. The V-EPICS programme connects engineering with community service in four verticals of community improvement effort as defined by EPICS in IEEE:
 
+
+<div class="card__wrap--outer">
+        <div class="card__wrap--inner">
+            <div class="card">
+                <div class="card__item">
+                    <h2>First Card Title</h2>
+                </div>
+								<div class="card__sub">
+										<small>New York</small>
+								</div>
+								<div class="card__item flexible">
+										Vexillologist mustache heirloom plaid adaptogen subway tile. Biodiesel microdosing pinterest, cloud bread vice kickstarter pickled PBR&B. Prism palo santo craft beer cold-pressed, heirloom tofu snackwave fashion axe ramps iPhone.
+								</div>
+								<div class="card__item">
+										<small>Reading Time: 4min</small>
+								</div>
+								<div class="card__footer">
+									<a class="pull" href="#"><small>Read more</small></a>
+									<a class="push" href="#"><small>Share</small></a>
+								</div>
+            </div>
+        </div>
+			
+			<div class="card__wrap--inner">
+            <div class="card">
+                <div class="card__item">
+                    <h2>Second Card Title</h2>
+                </div>
+								<div class="card__sub">
+										<small>Paris</small>
+								</div>
+								<div class="card__item  flexible">
+										<small>Celiac pour-over fanny pack, adaptogen yuccie trust fund tote bag man braid activated charcoal narwhal church-key crucifix. Farm-to-table sartorial retro snackwave mixtape, live-edge 8-bit activated charcoal art party succulents. Crucifix actually try-hard wayfarers echo park skateboard, street art shaman intelligentsia humblebrag celiac umami farm-to-table.</small>
+								</div>
+								<div class="card__item">
+										<small>Reading Time: 2min</small>
+								</div>
+								<div class="card__footer">
+									<a class="pull" href="#"><small>Read more</small></a>
+									<a class="push" href="#"><small>Share</small></a>
+								</div>
+            </div>
+        </div>
+			
+			<div class="card__wrap--inner">
+            <div class="card">
+                <div class="card__item">
+                    <h2>Third Card Title</h2>
+                </div>
+								<div class="card__sub">
+										<small>London</small>
+								</div>
+								<div class="card__item flexible">
+										<small>VTbh four loko YOLO listicle forage messenger bag aesthetic williamsburg franzen kitsch iceland ethical venmo man braid poutine</small>
+								</div>
+								<div class="card__item">
+										<small>Reading Time: 8min</small>
+								</div>
+								<div class="card__footer">
+									<a class="pull" href="#"><small>Read more</small></a>
+									<a class="push" href="#"><small>Share</small></a>
+								</div>
+            </div>
+        </div>
+    </div>
+
+
+
+
 ###### Access and Abilities
 By bringing together student branches at universities, secondary students and non-profit organizations, there is a greater ability to solve accessibility issues within communities. As students learn to help their community or country through engineering projects, non-profit organizations establish themselves in order to maintain new and profound change. The Access and Abilities projects help enable adaptive services, clinics for those in need (such as children with disabilities), me for adults and assistive technologies.
 
