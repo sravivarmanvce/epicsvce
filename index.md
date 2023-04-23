@@ -136,6 +136,9 @@ The major challenge is to bring the two groups together in a mutually beneficial
   <div class="column">
     <img src="assets/images/unnat.png" alt="Unnat Bharat Abhiyan" style="height:50%">
   </div>
+  <div class="column">
+    <img src="assets/images/pallesrujana.png" alt="Palle Srujana" style="height:50%">
+  </div>
 </div>
 
 
