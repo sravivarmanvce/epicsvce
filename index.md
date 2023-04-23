@@ -85,64 +85,85 @@ background: '/img/bg-index.jpg'
 The major challenge is to bring the two groups together in a mutually beneficial way (the Students and the Community). It was specifically to address this challenge that the V-EPICS programme was launched. The V-EPICS programme connects engineering with community service in four verticals of community improvement effort as defined by EPICS in IEEE:
 
 
-<div class="card__wrap--outer">
-        <div class="card__wrap--inner">
-            <div class="card">
-                <div class="card__item">
+<div class="card2__wrap--outer">
+        <div class="card2__wrap--inner">
+            <div class="card2">
+                <div class="card2__item">
                     <h2>First Card Title</h2>
                 </div>
-								<div class="card__sub">
+								<div class="card2__sub">
 										<small>New York</small>
 								</div>
-								<div class="card__item flexible">
+								<div class="card2__item flexible">
 										Vexillologist mustache heirloom plaid adaptogen subway tile. Biodiesel microdosing pinterest, cloud bread vice kickstarter pickled PBR&B. Prism palo santo craft beer cold-pressed, heirloom tofu snackwave fashion axe ramps iPhone.
 								</div>
-								<div class="card__item">
+								<div class="card2__item">
 										<small>Reading Time: 4min</small>
 								</div>
-								<div class="card__footer">
+								<div class="card2__footer">
 									<a class="pull" href="#"><small>Read more</small></a>
 									<a class="push" href="#"><small>Share</small></a>
 								</div>
             </div>
         </div>
 			
-			<div class="card__wrap--inner">
-            <div class="card">
-                <div class="card__item">
+			<div class="card2__wrap--inner">
+            <div class="card2">
+                <div class="card2__item">
                     <h2>Second Card Title</h2>
                 </div>
-								<div class="card__sub">
+								<div class="card2__sub">
 										<small>Paris</small>
 								</div>
-								<div class="card__item  flexible">
+								<div class="card2__item  flexible">
 										<small>Celiac pour-over fanny pack, adaptogen yuccie trust fund tote bag man braid activated charcoal narwhal church-key crucifix. Farm-to-table sartorial retro snackwave mixtape, live-edge 8-bit activated charcoal art party succulents. Crucifix actually try-hard wayfarers echo park skateboard, street art shaman intelligentsia humblebrag celiac umami farm-to-table.</small>
 								</div>
-								<div class="card__item">
+								<div class="card2__item">
 										<small>Reading Time: 2min</small>
 								</div>
-								<div class="card__footer">
+								<div class="card2__footer">
 									<a class="pull" href="#"><small>Read more</small></a>
 									<a class="push" href="#"><small>Share</small></a>
 								</div>
             </div>
         </div>
 			
-			<div class="card__wrap--inner">
-            <div class="card">
-                <div class="card__item">
+			<div class="card2__wrap--inner">
+            <div class="card2">
+                <div class="card2__item">
                     <h2>Third Card Title</h2>
                 </div>
-								<div class="card__sub">
+								<div class="card2__sub">
 										<small>London</small>
 								</div>
-								<div class="card__item flexible">
+								<div class="card2__item flexible">
 										<small>VTbh four loko YOLO listicle forage messenger bag aesthetic williamsburg franzen kitsch iceland ethical venmo man braid poutine</small>
 								</div>
-								<div class="card__item">
+								<div class="card2__item">
 										<small>Reading Time: 8min</small>
 								</div>
-								<div class="card__footer">
+								<div class="card2__footer">
+									<a class="pull" href="#"><small>Read more</small></a>
+									<a class="push" href="#"><small>Share</small></a>
+								</div>
+            </div>
+        </div>
+		</div>
+			<div class="card2__wrap--inner">
+            <div class="card2">
+                <div class="card2__item">
+                    <h2>Third Card Title</h2>
+                </div>
+								<div class="card2__sub">
+										<small>London</small>
+								</div>
+								<div class="card2__item flexible">
+										<small>VTbh four loko YOLO listicle forage messenger bag aesthetic williamsburg franzen kitsch iceland ethical venmo man braid poutine</small>
+								</div>
+								<div class="card2__item">
+										<small>Reading Time: 8min</small>
+								</div>
+								<div class="card2__footer">
 									<a class="pull" href="#"><small>Read more</small></a>
 									<a class="push" href="#"><small>Share</small></a>
 								</div>
