@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'vardhaman'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -24,14 +24,14 @@ sass:
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  ravivarman:
+    name: Ravivarman
+    display_name: Ravivarman
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: ravivarman@vardhaman.org
+    web: https://www.sravivarman.com/
+    twitter: https://twitter.com/
+    description: "Author"
   john:
     name: John
     display_name: John
@@ -43,9 +43,10 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/vardhaman/
-  facebook: https://www.facebook.com/vardhaman
-  twitter: https://twitter.com/vardhaman
+  instagram: https://www.instagram.com/#
+  facebook: https://www.facebook.com/#
+  twitter: https://twitter.com/#
+  linkedin: https://in.linkedin.com/school/vardhaman/
 
 # Plugins
 plugins: 

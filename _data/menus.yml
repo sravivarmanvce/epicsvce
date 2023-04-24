@@ -7,11 +7,17 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Contact
-  url: "contact/"
+- title: Projects
+  url: "projects/"  
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Resources
+  url: "resources/"  
+
+- title: Contact
+  url: "contact/"  
+
+- title: Vardhaman  
+  url: https://vardhaman.org/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -27,6 +33,6 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Vardhaman
+  url: https://vardhaman.org/
   external: true
