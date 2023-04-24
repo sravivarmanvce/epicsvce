@@ -122,7 +122,7 @@ The major challenge is to bring the two groups together in a mutually beneficial
 
 #### Collaborations and Community Partners
 
-
+<p align="justify">
 <div class="row">
   <div class="column">
     <img src="assets/images/purdue.png" alt="Purdue University" style="height:40%">
@@ -140,5 +140,5 @@ The major challenge is to bring the two groups together in a mutually beneficial
     <img src="assets/images/pallesrujana.png" alt="Palle Srujana" style="height:40%">
   </div>
 </div>
-
+</p>
 
