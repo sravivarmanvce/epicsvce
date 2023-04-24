@@ -7,11 +7,11 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Contact
-  url: "contact/"  
+- title: Projects
+  url: "projects/"  
 
-- title: Contact
-  url: "contact/"  
+- title: Resources
+  url: "resources/"  
 
 - title: Contact
   url: "contact/"  
