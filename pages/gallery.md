@@ -6,35 +6,35 @@ permalink: "/gallery/"
 comments: false
 ---
 
-<div class="container">
-            <div class="row">
-                <div class="col-md-4 mt-3 col-lg-4">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-4">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-4">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-6">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-6">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-3">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-3">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-3">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
-                <div class="col-md-4 mt-3 col-lg-3">
-                    <img src="https://source.unsplash.com/collection/190726/1500x900" class="img-fluid" alt="image">
-                </div>
+<h1>Masonry - imagesLoaded callback</h1>
 
-            </div>
+<div class="grid">
+  <div class="grid-sizer"></div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" />
+  </div>
+  <div class="grid-item">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/flight-formation.jpg" />
+  </div>
 </div>
