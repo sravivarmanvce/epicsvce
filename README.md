@@ -1,3 +1,15 @@
-# Affiliates - Free Jekyll Theme
+Vardhaman College of Engineering
+Kacharam, Shamshabad - 501218
+Hyderabad, Telangana, India
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |
+www.vardhaman.org
+
+
+
+
+
+
+
+
+
+Affiliates - Free Jekyll Theme
