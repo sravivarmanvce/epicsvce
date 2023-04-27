@@ -5,130 +5,79 @@ permalink: "/gallery/"
 #image: assets/images/screenshot.png
 comments: false
 ---
-<link rel="stylesheet" href="../assets/css/isolde.css">
-<script src="../assets/css/isolde.js"></script>
+<link href="../assets/css/animated-masonry-gallery.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../assets/js/jquery-2.0.2.min.js"></script>
+<script type="text/javascript" src="../assets/js/jquery-ui-1.10.4.min.js"></script>
+<script type="text/javascript" src="../assets/js/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="../assets/js/animated-masonry-gallery.js"></script>
 
-  <main class="sortable">
-    <div class="container">
-      <div class="wrapper">
-        <ul class="sortable__nav nav">
-          <li>
-            <a data-isolde-link="all" class="nav__link">
-              All
-            </a>
-          </li>
-          <li>
-            <a data-isolde-link="flatty" class="nav__link">
-              Flatty
-            </a>
-          </li>
-          <li>
-            <a data-isolde-link="funny" class="nav__link">
-              Funny
-            </a>
-          </li>
-        </ul>
-        <div id="isolde" class="isolde-default">
-          <div data-isolde-el="flatty">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-1.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 1</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, eius, asperiores. Incidunt sapiente est quae iure...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="flatty">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-2.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 2</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum vitae necessitatibus, dolorem similique vero explicabo...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="funny">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-3.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 3</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, placeat voluptate, fuga tenetur eos ducimus animi porro...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="flatty">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-4.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 4</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit doloremque quisquam, obcaecati unde nam est quos...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="flatty">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-5.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 5</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse corporis hic minima nisi reprehenderit...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="funny">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-6.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 6</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel voluptatibus, id, deserunt inventore...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="flatty">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-7.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 7</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum enim beatae vero culpa, fuga, magni sunt dolores nam...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="flatty">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-8.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 8</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae numquam, blanditiis necessitatibus...
-                </p>
-              </div>
-            </div>
-          </div>
-          <div data-isolde-el="funny">
-            <div class="card">
-              <img class="card__picture" src="../assets/images/item-9.jpg" alt="">
-              <div class="card-infos">
-                <h2 class="card__title">Example 9</h2>
-                <p class="card__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur adipisci voluptatum laborum officiis...
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </main>
+
+<div id="gallery">
+<div id="gallery-header">
+<div id="gallery-header-center">
+<div id="gallery-header-center-left">
+<div id="gallery-header-center-left-icon"><span class="iconb" data-icon="&#xe23a;"></span></div>
+<div id="gallery-header-center-left-title">All Galleries</div>
+</div>
+<div id="gallery-header-center-right">
+<div class="gallery-header-center-right-links" id="filter-all">All</div>
+<div class="gallery-header-center-right-links" id="filter-studio">Studio</div>
+<div class="gallery-header-center-right-links" id="filter-landscape">Landscapes</div>
+</div>
+</div>
+</div>
+<div id="gallery-content">
+<div id="gallery-content-center">
+<img src="..assets/images/studio1.jpg" class="all studio"/>
+<img src="..assets/images/landscape1.jpg" class="all landscape">
+<img src="..assets/images/studio2.jpg" class="all studio"/>
+<img src="..assets/images/studio25.jpg" class="all studio"/>
+<img src="..assets/images/landscape2.jpg" class="all landscape">
+<img src="..assets/images/studio27.jpg" class="all studio"/>
+<img src="..assets/images/studio3.jpg" class="all studio"/>
+<img src="..assets/images/landscape3.jpg" class="all landscape">
+<img src="..assets/images/studio26.jpg" class="all studio"/>
+<img src="..assets/images/studio4.jpg" class="all studio"/>
+<img src="..assets/images/landscape4.jpg" class="all landscape">
+<img src="..assets/images/studio5.jpg" class="all studio"/>
+<img src="..assets/images/landscape5.jpg" class="all landscape">
+<img src="..assets/images/studio6.jpg" class="all studio"/>
+<img src="..assets/images/landscape6.jpg" class="all landscape">
+<img src="..assets/images/studio7.jpg" class="all studio"/>
+<img src="..assets/images/landscape7.jpg" class="all landscape">
+<img src="..assets/images/studio8.jpg" class="all studio"/>
+<img src="..assets/images/landscape8.jpg" class="all landscape">
+<img src="..assets/images/studio9.jpg" class="all studio"/>
+<img src="..assets/images/landscape9.jpg" class="all landscape">
+<img src="..assets/images/studio10.jpg" class="all studio"/>
+<img src="..assets/images/landscape10.jpg" class="all landscape">
+<img src="..assets/images/studio11.jpg" class="all studio"/>
+<img src="..assets/images/landscape11.jpg" class="all landscape">
+<img src="..assets/images/studio12.jpg" class="all studio"/>
+<img src="..assets/images/landscape12.jpg" class="all landscape">
+<img src="..assets/images/studio13.jpg" class="all studio"/>
+<img src="..assets/images/landscape13.jpg" class="all landscape">
+<img src="..assets/images/studio14.jpg" class="all studio"/>
+<img src="..assets/images/landscape14.jpg" class="all landscape">
+<img src="..assets/images/studio15.jpg" class="all studio"/>
+<img src="..assets/images/landscape15.jpg" class="all landscape">
+<img src="..assets/images/studio16.jpg" class="all studio"/>
+<img src="..assets/images/landscape16.jpg" class="all landscape">
+<img src="..assets/images/studio17.jpg" class="all studio"/>
+<img src="..assets/images/landscape17.jpg" class="all landscape">
+<img src="..assets/images/studio18.jpg" class="all studio"/>
+<img src="..assets/images/landscape18.jpg" class="all landscape">
+<img src="..assets/images/studio19.jpg" class="all studio"/>
+<img src="..assets/images/studio20.jpg" class="all studio"/>
+<img src="..assets/images/studio21.jpg" class="all studio"/>
+<img src="..assets/images/studio22.jpg" class="all studio"/>
+<img src="..assets/images/studio23.jpg" class="all studio"/>
+<img src="..assets/images/studio24.jpg" class="all studio"/>
+
+
+
+
+
+</div>
+</div>
+</div>
