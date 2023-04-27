@@ -5,6 +5,7 @@ permalink: "/gallery/"
 #image: assets/images/screenshot.png
 comments: false
 ---
+<script src="/assets/js/masonry.pkgd.min.js"></script>
 
 <h1>Masonry - imagesLoaded callback</h1>
 
