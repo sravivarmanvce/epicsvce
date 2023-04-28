@@ -148,16 +148,6 @@ body {
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif !important;
 }
 
-/*a,
-a:hover {
-    text-decoration: none;
-    color: #000;
-}*/
-
-.text-center {
-    text-align: center;
-}
-
 .pair {
     background: #f8f8f8;
 }
@@ -168,104 +158,6 @@ a:hover {
     }
 }
 
-header {
-    position: absolute;
-    width: 100%;
-    top: 0;
-    left: 0;
-    border-bottom: 1px solid transparent;
-    z-index: 999;
-    transition: all 0.3s ease-in-out;
-}
-
-header.fixed {
-    background: #fff;
-    border-bottom: 1px solid #cecece;
-}
-
-.header-unpin {
-    position: fixed;
-    opacity: 0;
-    transform: translate3d(0, -100%, 0);
-    transition: all 0.3s ease-in-out;
-}
-
-.header-pin {
-    position: fixed;
-    background: #fff;
-    opacity: 1;
-    border-bottom: 1px solid #cecece;
-    transform: translate3d(0, 0%, 0);
-    transition: all 0.6s ease-in-out;
-}
-
-.header-inner {
-    padding: 25px 0;
-    overflow: hidden;
-}
-
-.logo {
-    font-family: 'Lobster', cursive;
-    color: #000;
-    float: left;
-    font-size: 1.6em;
-}
-
-header ul {
-    float: right;
-    position: relative;
-    top: 4px;
-}
-
-header ul li {
-    float: left;
-    list-style: none;
-    margin-left: 25px;
-    opacity: 1;
-    transition: opacity 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-
-/*header ul li a {
-    color: #2b2b2b;
-    font-weight: 600;
-    font-size: 0.8em;
-}
-
-header ul:hover li {
-    opacity: 0.7;
-    transition: opacity 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-header ul li:hover {
-    opacity: 1;
-    transition: opacity 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-header ul li:hover a {
-    color: #000000;
-}
-*/
-
-h3 {
-    font-family: 'Gilroy', sans-serif;
-    font-size: 1.7em;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 25px;
-    margin-bottom: 30px;
-    font-weight: 600;
-    color: #000;
-    display: flex;
-}
-
-h4 {
-    font-family: 'Gilroy', sans-serif;
-    margin-bottom: 25px;
-    font-weight: 600;
-    color: #000;
-    font-size: 1.2em;
-}
-
-/*a {
-    color: #000;
-}*/
 
 p {
     line-height: 1.7em;
@@ -369,10 +261,6 @@ p {
     margin-right: 10px;
 }
 
-/*a {
-    text-decoration: none;
-}*/
-
 ol {
     margin-left: 2em;
     margin-bottom: 2em;
@@ -390,51 +278,6 @@ ul ul {
 strong {
     font-weight: 600;
     color: #1f1f1f;
-}
-
-.intro {
-    width: 100%;
-    margin: 0 auto;
-    background: url(../img/head.jpg);
-    background-size: cover;
-    margin-bottom: 0px;
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    padding-top: 80px;
-    min-height: 579px;
-    max-height: 579px;
-}
-
-.intro h1 {
-    margin-top: 0;
-    font-size: 3.3em;
-    color: #000;
-    font-weight: 100;
-    margin-bottom: 35px;
-    text-align: center;
-}
-
-.tagline {
-    color: #3a3a3a;
-    margin-bottom: 30px;
-    font-weight: 600;
-    text-align: center;
-    font-size: 17px;
-}
-
-.lead {
-    margin-bottom: 2em;
-}
-
-.lead .mcbutton {
-    border-color: #595959;
-    cursor: pointer;
-}
-
-.heading-icon {
-    margin-right: 16px
 }
 
 .box-container {
@@ -629,14 +472,6 @@ footer {
     margin: 2rem 0;
 }
 
-/*footer a {
-    color: #000;
-}*/
-
-.copyright {
-    font-size: 0.8em;
-}
-
 
 @media (min-width: 390px) {
     .three-cols .box {
@@ -646,24 +481,6 @@ footer {
 
 
 @media (min-width: 576px) {
-    .intro h1 {
-        font-size: 4.3em;
-    }
-
-    .intro {
-        max-height: 70vh;
-        min-height: 640px;
-        padding-top: 0px;
-    }
-
-    .intro h1,
-    .tagline {
-        text-align: left;
-    }
-
-    .tagline {
-        font-size: 100%;
-    }
 
     .three-cols .box {
         width: 33.3%;
