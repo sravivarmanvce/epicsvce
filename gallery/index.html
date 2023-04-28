@@ -15,6 +15,71 @@
         <link rel="stylesheet" href="demo/css/style.css" />
         <link rel="stylesheet" href="dist/css/glightbox.css" />
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+		
+		        <script src="https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"></script>
+        <script src="demo/js/valde.min.js"></script>
+        <script src="dist/js/glightbox.js"></script>
+        <script src="demo/js/site.js"></script>
+        <script>
+            var lightbox = GLightbox();
+            lightbox.on('open', (target) => {
+                console.log('lightbox opened');
+            });
+            var lightboxDescription = GLightbox({
+                selector: '.glightbox2'
+            });
+            var lightboxVideo = GLightbox({
+                selector: '.glightbox3'
+            });
+            lightboxVideo.on('slide_changed', ({ prev, current }) => {
+                console.log('Prev slide', prev);
+                console.log('Current slide', current);
+
+                const { slideIndex, slideNode, slideConfig, player } = current;
+
+                if (player) {
+                    if (!player.ready) {
+                        // If player is not ready
+                        player.on('ready', (event) => {
+                            // Do something when video is ready
+                        });
+                    }
+
+                    player.on('play', (event) => {
+                        console.log('Started play');
+                    });
+
+                    player.on('volumechange', (event) => {
+                        console.log('Volume change');
+                    });
+
+                    player.on('ended', (event) => {
+                        console.log('Video ended');
+                    });
+                }
+            });
+
+            var lightboxInlineIframe = GLightbox({
+                selector: '.glightbox4'
+            });
+
+            /* var exampleApi = GLightbox({ selector: null });
+            exampleApi.insertSlide({
+                href: 'https://picsum.photos/1200/800',
+            });
+            exampleApi.insertSlide({
+                width: '500px',
+                content: '<p>Example</p>'
+            });
+            exampleApi.insertSlide({
+                href: 'https://www.youtube.com/watch?v=WzqrwPhXmew',
+            });
+            exampleApi.insertSlide({
+                width: '200vw',
+                content: document.getElementById('inline-example')
+            });
+            exampleApi.open(); */
+        </script>
 
         <title>GLightbox | A touchable pure Javascript lightbox</title>
     </head>
@@ -408,69 +473,6 @@
                 <a href="https://www.pexels.com/video/a-rocky-coast-1550080/" target="_blank">pexels</a>
             </div>
         </footer>
-        <script src="https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"></script>
-        <script src="demo/js/valde.min.js"></script>
-        <script src="dist/js/glightbox.js"></script>
-        <script src="demo/js/site.js"></script>
-        <script>
-            var lightbox = GLightbox();
-            lightbox.on('open', (target) => {
-                console.log('lightbox opened');
-            });
-            var lightboxDescription = GLightbox({
-                selector: '.glightbox2'
-            });
-            var lightboxVideo = GLightbox({
-                selector: '.glightbox3'
-            });
-            lightboxVideo.on('slide_changed', ({ prev, current }) => {
-                console.log('Prev slide', prev);
-                console.log('Current slide', current);
 
-                const { slideIndex, slideNode, slideConfig, player } = current;
-
-                if (player) {
-                    if (!player.ready) {
-                        // If player is not ready
-                        player.on('ready', (event) => {
-                            // Do something when video is ready
-                        });
-                    }
-
-                    player.on('play', (event) => {
-                        console.log('Started play');
-                    });
-
-                    player.on('volumechange', (event) => {
-                        console.log('Volume change');
-                    });
-
-                    player.on('ended', (event) => {
-                        console.log('Video ended');
-                    });
-                }
-            });
-
-            var lightboxInlineIframe = GLightbox({
-                selector: '.glightbox4'
-            });
-
-            /* var exampleApi = GLightbox({ selector: null });
-            exampleApi.insertSlide({
-                href: 'https://picsum.photos/1200/800',
-            });
-            exampleApi.insertSlide({
-                width: '500px',
-                content: '<p>Example</p>'
-            });
-            exampleApi.insertSlide({
-                href: 'https://www.youtube.com/watch?v=WzqrwPhXmew',
-            });
-            exampleApi.insertSlide({
-                width: '200vw',
-                content: document.getElementById('inline-example')
-            });
-            exampleApi.open(); */
-        </script>
     </body>
 </html>
