@@ -123,12 +123,15 @@ body {
     background: #f8f8f8;
 }
 
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
     .container {
         max-width: 1040px;
     }
-}
+}*/
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 7365aac (Update gstyle.css)
 
 p {
     line-height: 1.7em;
