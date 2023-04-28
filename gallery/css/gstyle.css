@@ -148,11 +148,11 @@ body {
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, '.SFNSText-Regular', sans-serif !important;
 }
 
-a,
+/*a,
 a:hover {
     text-decoration: none;
     color: #000;
-}
+}*/
 
 .text-center {
     text-align: center;
@@ -225,7 +225,7 @@ header ul li {
     transition: opacity 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-header ul li a {
+/*header ul li a {
     color: #2b2b2b;
     font-weight: 600;
     font-size: 0.8em;
@@ -242,7 +242,7 @@ header ul li:hover {
 header ul li:hover a {
     color: #000000;
 }
-
+*/
 
 h3 {
     font-family: 'Gilroy', sans-serif;
@@ -263,9 +263,9 @@ h4 {
     font-size: 1.2em;
 }
 
-a {
+/*a {
     color: #000;
-}
+}*/
 
 p {
     line-height: 1.7em;
@@ -369,9 +369,9 @@ p {
     margin-right: 10px;
 }
 
-a {
+/*a {
     text-decoration: none;
-}
+}*/
 
 ol {
     margin-left: 2em;
@@ -629,9 +629,9 @@ footer {
     margin: 2rem 0;
 }
 
-footer a {
+/*footer a {
     color: #000;
-}
+}*/
 
 .copyright {
     font-size: 0.8em;
