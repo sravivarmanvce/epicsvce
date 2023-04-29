@@ -5,7 +5,8 @@ permalink: "/projects/"
 comments: false
 ---
 
-The department conducts research across a wide range of topics, and supports multidisciplinarity and collaboration. We target both the fundamental advances and the practical applications of science and technology to help address some of the greatest challenges of the future.
+### List of Projects
+The EPICS Cell conducts surveys and identifies research across a wide range of topics, and supports multidisciplinarity and collaboration. We target both the fundamental advances and the practical applications of science, engineering and technology to help address some of the greatest challenges of the community.
 
 <div class="col-md-12">
     <table class="sortable">
