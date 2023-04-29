@@ -2,7 +2,7 @@
 layout: projects
 title: Projects
 permalink: "/projects/"
-image: projects/assets/projects-banner.png
+image: assets/images/projects-banner.png
 comments: false
 ---
 
