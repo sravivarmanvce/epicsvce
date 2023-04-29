@@ -10,7 +10,7 @@ comments: false
 The EPICS Cell conducts surveys and identifies research across a wide range of topics, and supports multidisciplinarity and collaboration. We target both the fundamental advances and the practical applications of science, engineering and technology to help address some of the greatest challenges of the community.
 
 <div class="col-md-12">
-    <table class="sortable">
+    <table class="sortable" style="white-space:nowrap;">
       <thead>
         <tr>
           <th>Academic Year</th>
