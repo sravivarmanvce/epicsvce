@@ -26,10 +26,10 @@ The EPICS Cell conducts surveys and identifies research across a wide range of t
         <tr>
 			<td>2021-2022</td>
 			<td>CE</td>
-			<td>20881A0147 &nbsp;
-				20881A0121&nbsp;
-				20881A0106&nbsp;
-				20881A0103&nbsp;
+			<td>20881A0147 \\
+				20881A0121 \\
+				20881A0106 \\
+				20881A0103 \\
 				20881A0136
 			</td>
 			<td>THELLURU RAVEENA&nbsp;
