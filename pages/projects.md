@@ -23,20 +23,20 @@ The EPICS Cell conducts surveys and identifies research across a wide range of t
       </thead>
       <tbody>
         <tr>
-          <td>2021-2022</td>
-          <td>CE</td>
-          <td>20881A0147
-20881A0121
-20881A0106
-20881A0103
-20881A0136
-</td>
-          <td>THELLURU RAVEENA
-KANNEBOINA KIRAN
-CHALAOALA MAHENDAR
-BATHULA DIVYA
-NAKNAOONI SHIVA KUMAR
-</td>
+			<td>2021-2022</td>
+			<td>CE</td>
+			<td>20881A0147</br>
+				20881A0121</br>
+				20881A0106</br>
+				20881A0103</br>
+				20881A0136</br>
+			</td>
+			<td>THELLURU RAVEENA</br>
+				KANNEBOINA KIRAN</br>
+				CHALAOALA MAHENDAR</br>
+				BATHULA DIVYA</br>
+				NAKNAOONI SHIVA KUMAR
+			</td>
           <td>RAIN WATER HARWESTING</td>
           <td>981</td>
         </tr>
