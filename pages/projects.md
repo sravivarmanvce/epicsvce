@@ -10,7 +10,7 @@ comments: false
 The EPICS Cell conducts surveys and identifies research across a wide range of topics, and supports multidisciplinarity and collaboration. We target both the fundamental advances and the practical applications of science, engineering and technology to help address some of the greatest challenges of the community.
 
 <div class="col-md-12">
-    <table class="sortable" style="word-wrap: break-word; overflow-wrap: break-word;">
+    <table class="sortable">
       <thead>
         <tr>
           <th>Academic Year</th>
@@ -25,9 +25,9 @@ The EPICS Cell conducts surveys and identifies research across a wide range of t
         <tr>
 			<td>2021-2022</td>
 			<td>CE</td>
-			<td>20881A0147</td>
-			<td>RAIN WATER HARWESTING</td>
-			<td>981</td>
+			<td>20881A0147, 20881A0147, 20881A0147, 20881A0147, 20881A0147, 20881A0147</td>
+			<td>RAIN WATER HARWESTING RAIN WATER HARWESTING RAIN WATER HARWESTING</td>
+			<td>T. Bhavani Choudary, AP/CE, VCE</td>
         </tr>
         <tr>
           <td>Stevedore</td>
