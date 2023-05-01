@@ -6,9 +6,7 @@ topmenu:
 
 - title: About
   url: "about/"
-    - title: Team
-      url: "about/epics-team"
-
+  
 - title: Projects
   url: "projects/"  
 
