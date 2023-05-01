@@ -9,7 +9,7 @@ comments: false
 EPICS is a way to impact communities and bring your project ideas and concept to life. Resources are available on this page to assist you and make sure your project is successful.
 
 <div class="col-md-12">
-    <table>
+    <table class="col-md-12">
       <thead>
         <tr>
           <th>Course</th>
