@@ -18,4 +18,6 @@ image: assets/images/vardhaman.png
 ##### Version #2
 ![EPICS in Curriculum: Version #2](../assets/images/epics-curriculum-v2.png "EPICS in Curriculum: Version #2")
 
+---
+
 #### EPICS Course Mapping to POs
