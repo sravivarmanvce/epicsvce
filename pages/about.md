@@ -20,4 +20,4 @@ image: assets/images/vardhaman.png
 #### Version # 1
 <img alt="EPICS in Curriculum: Version #1" src="assets/images/epics-curriculum-v1.png">
 a
-![EPICS in Curriculum: Version #1](./assets/images/epics-curriculum-v1.png "EPICS in Curriculum: Version #1")
+![EPICS in Curriculum: Version #1](../assets/images/epics-curriculum-v1.png "EPICS in Curriculum: Version #1")
