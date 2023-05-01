@@ -17,7 +17,9 @@ image: assets/images/vardhaman.png
 ---
 
 ### EPICS in Curriculum
-#### Version # 1
-<img alt="EPICS in Curriculum: Version #1" src="assets/images/epics-curriculum-v1.png">
-a
+#### Version #1
 ![EPICS in Curriculum: Version #1](../assets/images/epics-curriculum-v1.png "EPICS in Curriculum: Version #1")
+
+#### Version #2
+![EPICS in Curriculum: Version #2](../assets/images/epics-curriculum-v2.png "EPICS in Curriculum: Version #2")
+
