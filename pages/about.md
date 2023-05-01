@@ -7,7 +7,6 @@ image: assets/images/vardhaman.png
 
 ### Vardhaman College of Engineering
 <p align="justify">Vardhaman College of Engineering (VCE) was established in the year 1999 by Vardhaman Educational Society, Hyderabad. It is a UGC Autonomous college, approved by AICTE, and is permanently affiliated to Jawaharlal Nehru Technological University (JNTU), Hyderabad. We offer undergraduate B.Tech programmes in CSE, CSE (AI&ML), AI&ML, AI&DS, IT, ECE, EEE, ME and CE; postgraduate M.Tech programmes with specialisation in DECS, PEED, CSE, SE, and ED; MBA programme; and doctoral programmes in CSE, ECE and ME.</p>
-&nbsp;
 <p align="justify">The college is accredited by NAAC at A++ grade with a CGPA of 3.58 on a scale of 4. Six of its UG engineering programmes – B. Tech ECE, EEE, CSE, ME, CE, and IT are accredited by the National Board of Accreditation (NBA), New Delhi under the Tier-1 category. VCE is the most sought-after institute to make the dreams fulfilled for many aspiring engineers. Our major strength lies in imparting quality education to the global standards and envisages to address various societal needs.</p>
 
 ---
@@ -19,4 +18,6 @@ image: assets/images/vardhaman.png
 
 ### EPICS in Curriculum
 #### Version # 1
-![EPICS in Curriculum: Version #1](/assets/images/epics-curriculum-v1.png "EPICS in Curriculum: Version #1")
+<img alt="EPICS in Curriculum: Version #1" src="assets/images/epics-curriculum-v1.png">
+a
+![EPICS in Curriculum: Version #1](./assets/images/epics-curriculum-v1.png "EPICS in Curriculum: Version #1")
