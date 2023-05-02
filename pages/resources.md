@@ -60,6 +60,8 @@ EPICS is a way to impact communities and bring your project ideas and concept to
         </tr>
 		
 		<tr><td></td></tr>
+		<tr><td></td></tr>
+		<tr><td></td></tr>
 		
 		<tr>
 			<td>Engineering Exploration</td>
@@ -97,6 +99,8 @@ EPICS is a way to impact communities and bring your project ideas and concept to
 			<td>Download</td>
         </tr>
 
+		<tr><td></td></tr>
+		<tr><td></td></tr>
 		<tr><td></td></tr>
 		
 		<tr>
@@ -136,6 +140,8 @@ EPICS is a way to impact communities and bring your project ideas and concept to
         </tr>
 
 		<tr><td></td></tr>
+		<tr><td></td></tr>
+		<tr><td></td></tr>
 		
 		<tr>
 			<td>Product Realization</td>
@@ -173,6 +179,8 @@ EPICS is a way to impact communities and bring your project ideas and concept to
 			<td>Download</td>
         </tr>
 
+		<tr><td></td></tr>
+		<tr><td></td></tr>
 		<tr><td></td></tr>
 		
       </tbody>
