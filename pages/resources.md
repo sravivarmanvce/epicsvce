@@ -72,8 +72,11 @@ EPICS is a way to impact communities and bring your project ideas and concept to
         </tr>
       </thead>
       <tbody>
+		<tr>
+			<td colspan="4">Social Innovation</td>
+		</tr>
  
-        <tr>
+		<tr>
           <td>Module 1</td>
           <td>Download</td>
           <td>Download</td>
