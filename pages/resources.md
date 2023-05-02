@@ -60,7 +60,7 @@ EPICS is a way to impact communities and bring your project ideas and concept to
         </tr>
 		
 		<tr><td></td></tr>
-		<tr><td></td></tr>
+		<tr><td></td><td></td><td></td><td></td><td></td></tr>
 		<tr><td></td></tr>
 		
 		<tr>
@@ -100,7 +100,7 @@ EPICS is a way to impact communities and bring your project ideas and concept to
         </tr>
 
 		<tr><td></td></tr>
-		<tr><td></td></tr>
+		<tr><td></td><td></td><td></td><td></td><td></td></tr>
 		<tr><td></td></tr>
 		
 		<tr>
@@ -140,7 +140,7 @@ EPICS is a way to impact communities and bring your project ideas and concept to
         </tr>
 
 		<tr><td></td></tr>
-		<tr><td></td></tr>
+		<tr><td></td><td></td><td></td><td></td><td></td></tr>
 		<tr><td></td></tr>
 		
 		<tr>
@@ -180,7 +180,7 @@ EPICS is a way to impact communities and bring your project ideas and concept to
         </tr>
 
 		<tr><td></td></tr>
-		<tr><td></td></tr>
+		<tr><td></td><td></td><td></td><td></td><td></td></tr>
 		<tr><td></td></tr>
 		
       </tbody>
