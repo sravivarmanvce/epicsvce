@@ -11,7 +11,7 @@ background: '/img/bg-index.jpg'
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <h1 class="font-weight-bold mb-4 serif-font" style="color:#fff">EPICS</h1>
-      <h2 class="mb-4" style="color:#fff">Vardhaman College of Engineering</h2>
+      <h2 class="mb-4" style="color:#F8931F">Vardhaman College of Engineering</h2>
       <!--a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a-->
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
