@@ -22,27 +22,45 @@ EPICS is a way to impact communities and bring your project ideas and concept to
       <tbody>
  
         <tr>
-          <td>Stevedore</td>
-          <td>The Hand</td>
-          <td>i7</td>
-          <td>8gb</td>
-          <td>-</td>
+          <td>Social Innovation</td>
+          <td>Module 1</td>
+          <td>Download</td>
+          <td>Download</td>
+          <td>Download</td>
         </tr>
+
         <tr>
-          <td>HR</td>
-          <td>League of Shadows</td>
-          <td>i5</td>
-          <td>-</td>
-          <td>GeForce</td>
+          <td>Social Innovation</td>
+          <td>Module 2</td>
+          <td>Download</td>
+          <td>Download</td>
+          <td>Download</td>
         </tr>
+
         <tr>
-          <td>Programmer</td>
-          <td>Bilbo Baggins</td>
-          <td>i3</td>
-          <td>4 gigabyte</td>
-          <td>-</td>
+          <td>Social Innovation</td>
+          <td>Module 3</td>
+          <td>Download</td>
+          <td>Download</td>
+          <td>Download</td>
         </tr>
+
+        <tr>
+          <td>Social Innovation</td>
+          <td>Module 4</td>
+          <td>Download</td>
+          <td>Download</td>
+          <td>Download</td>
+        </tr>
+
+        <tr>
+          <td>Social Innovation</td>
+          <td>Module 5</td>
+          <td>Download</td>
+          <td>Download</td>
+          <td>Download</td>
+        </tr>
+
       </tbody>
-      <tfoot></tfoot>
     </table>
 </div>
