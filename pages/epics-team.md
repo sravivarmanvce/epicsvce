@@ -22,7 +22,7 @@ html {
 
 @media screen and (max-width: 650px) {
   .column {
-    width: 100%;
+    width: 50%;
     display: block;
   }
 }
@@ -70,9 +70,6 @@ html {
       <div class="container">
         <h5>Jane Doe</h5>
         <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -94,9 +91,6 @@ html {
       <div class="container">
         <h5>Mike Ross</h5>
         <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -107,9 +101,6 @@ html {
       <div class="container">
         <h5>John Doe</h5>
         <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
