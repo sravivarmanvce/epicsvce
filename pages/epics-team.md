@@ -68,7 +68,7 @@ html {
     <div class="card">
       <img src="../team/eee-ravivarman.jpg" alt="Jane" style="width:100%; border-radius: 10%;">
       <div class="container">
-        <h2>Jane Doe</h2>
+        <h5>Jane Doe</h5>
         <p class="title">CEO & Founder</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
@@ -81,7 +81,7 @@ html {
     <div class="card">
       <img src="../team/eee-ravivarman.jpg" alt="Mike" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
+        <h5>Mike Ross</h5>
         <p class="title">Art Director</p>
       </div>
     </div>
@@ -92,7 +92,7 @@ html {
     <div class="card">
       <img src="../team/eee-ravivarman.jpg" alt="Mike" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
+        <h5>Mike Ross</h5>
         <p class="title">Art Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
@@ -103,9 +103,9 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="../teams/eee-ravivarman.jpg" alt="John" style="width:100%">
+      <img src="../team/eee-ravivarman.jpg" alt="John" style="width:100%">
       <div class="container">
-        <h2>John Doe</h2>
+        <h5>John Doe</h5>
         <p class="title">Designer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
