@@ -346,5 +346,109 @@ html {
 	</div>
 </div>
 
-<!--Sisxth row-->
+<!--Sixth row-->
+<div class="row">  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-srinivas.jpg" style="width:100%">
+			<div class="container">
+				<h6>Mr. S. Srinivas</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		 <img src="../team/ece-sujana.jpg" style="width:100%; border-radius: 10%;">
+			<div class="container">
+				<h6>Dr. S. Sujana</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-swethapriyanja.jpg" style="width:100%">
+			<div class="container">
+				<h6>Ms. J. Swetha Priyanka</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-tareeq.jpg" style="width:100%">
+			<div class="container">
+				<h6>Mr. Tareeq Zaid</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		 <img src="../team/ece-vijayalakshmi.jpg" style="width:100%; border-radius: 10%;">
+			<div class="container">
+				<h6>Ms. A. Vijaya Lakshmi</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--Seventh row-->
+<div class="row">  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/eee-andalu.jpg" style="width:100%">
+			<div class="container">
+				<h6>Ms. G. Andalu</h6>
+				<p class="title">Assistant Professor, EEE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		 <img src="../team/eee-anusha.jpg" style="width:100%; border-radius: 10%;">
+			<div class="container">
+				<h6>Ms. K. Anusha</h6>
+				<p class="title">Assistant Professor, EEE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-fatima.jpg" style="width:100%">
+			<div class="container">
+				<h6>Ms. Fatima Unnisa</h6>
+				<p class="title">Assistant Professor, EEE</p>
+			</div>
+		</div>
+	</div>
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-haleema.jpg" style="width:100%">
+			<div class="container">
+				<h6>Ms. K. Haleema</h6>
+				<p class="title">Assistant Professor, EEE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		 <img src="../team/ece-indirarani.jpg" style="width:100%; border-radius: 10%;">
+			<div class="container">
+				<h6>Ms. G. Indira Rani</h6>
+				<p class="title">Assistant Professor, EEE</p>
+			</div>
+		</div>
+	</div>
+</div>
 
