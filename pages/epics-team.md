@@ -106,10 +106,10 @@ html {
   
 	<div class="column">
 		<div class="card">
-		  <img src="../team/eee-ravivarman.jpg" alt="John" style="width:100%">
+		  <img src="../team/ce-akhilkumar.jpg" alt="Akhil Kumar" style="width:100%">
 			<div class="container">
-				<h6>John Doe</h6>
-				<p class="title">Designer</p>
+				<h6>Akhil Kumar</h6>
+				<p class="title">Assistant Professor, CE</p>
 			</div>
 		</div>
 	</div>
