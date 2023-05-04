@@ -370,7 +370,7 @@ html {
 
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-swethapriyanja.jpg" style="width:100%">
+		  <img src="../team/ece-swethapriyanka.jpg" style="width:100%">
 			<div class="container">
 				<h6>Ms. J. Swetha Priyanka</h6>
 				<p class="title">Assistant Professor, ECE</p>
@@ -423,7 +423,7 @@ html {
 
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-fatima.jpg" style="width:100%">
+		  <img src="../team/eee-fatima.jpg" style="width:100%">
 			<div class="container">
 				<h6>Ms. Fatima Unnisa</h6>
 				<p class="title">Assistant Professor, EEE</p>
@@ -433,7 +433,7 @@ html {
   
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-haleema.jpg" style="width:100%">
+		  <img src="../team/eee-haleema.jpg" style="width:100%">
 			<div class="container">
 				<h6>Ms. K. Haleema</h6>
 				<p class="title">Assistant Professor, EEE</p>
@@ -443,7 +443,7 @@ html {
 
 	<div class="column">
 		<div class="card">
-		 <img src="../team/ece-indirarani.jpg" style="width:100%; border-radius: 10%;">
+		 <img src="../team/eee-indirarani.jpg" style="width:100%; border-radius: 10%;">
 			<div class="container">
 				<h6>Ms. G. Indira Rani</h6>
 				<p class="title">Assistant Professor, EEE</p>
