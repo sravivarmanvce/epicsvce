@@ -32,7 +32,7 @@ html {
 }
 
 .container {
-  padding: 0 16px;
+  padding: 0 10px;
 }
 
 .container::after, .row::after {
@@ -43,7 +43,7 @@ html {
 
 .title {
   color: black;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .button {
@@ -62,8 +62,6 @@ html {
   background-color: #555;
 }
 </style>
-
-### EPICS Team
 
 <div class="row">
   <div class="column">
