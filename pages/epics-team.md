@@ -221,9 +221,9 @@ html {
 <div class="row">
 	<div class="column">
 		<div class="card">
-		 <img src="../team/ece-bhargava.jpg" style="width:100%; border-radius: 10%;">
+		 <img src="../team/ece-kalyani.jpg" style="width:100%; border-radius: 10%;">
 			<div class="container">
-				<h6>Mr. P. Bhargava</h6>
+				<h6>Dr. P. Kalyani</h6>
 				<p class="title">Assistant Professor, ECE</p>
 			</div>
 		</div>
@@ -231,9 +231,9 @@ html {
 
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-gopi.jpg" style="width:100%">
+		  <img src="../team/ece-maheshwarareddy.jpg" style="width:100%">
 			<div class="container">
-				<h6>Mr. M. Gopi Krishna</h6>
+				<h6>Mr. Maheswara Reddy</h6>
 				<p class="title">Assistant Professor, ECE</p>
 			</div>
 		</div>
@@ -242,9 +242,54 @@ html {
   
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-jayalakshmi.jpg" style="width:100%">
+		  <img src="../team/ece-nagajyothi.jpg" style="width:100%">
 			<div class="container">
-				<h6>Ms. A. Jaya Lakshmi</h6>
+				<h6>Dr. D. Nagajyothi</h6>
+				<p class="title">Associate Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-nareshkumar.jpg" style="width:100%">
+			<div class="container">
+				<h6>Dr. M. Naresh Kumar</h6>
+				<p class="title">Associate Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--Fifth row-->
+
+<div class="row">
+	<div class="column">
+		<div class="card">
+		 <img src="../team/ece-pavankumar.jpg" style="width:100%; border-radius: 10%;">
+			<div class="container">
+				<h6>Mr. K. Pavan Kumar</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-pramodkumar.jpg" style="width:100%">
+			<div class="container">
+				<h6>Dr. A. Pramod Kumar</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+  
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-praveenkumar.jpg" style="width:100%">
+			<div class="container">
+				<h6>Dr. D. Praveen Kumar</h6>
 				<p class="title">Assistant Professor, ECE</p>
 			</div>
 		</div>
@@ -252,9 +297,99 @@ html {
   
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-jyothi.jpg" style="width:100%">
+		  <img src="../team/ece-purnachandrareddy.jpg" style="width:100%">
 			<div class="container">
-				<h6>Ms. V. Jyothi</h6>
+				<h6>Mr. V. Purna Chandra Reddy</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--Sixth row-->
+
+<div class="row">
+	<div class="column">
+		<div class="card">
+		 <img src="../team/ece-ramakrishnaiah.jpg" style="width:100%; border-radius: 10%;">
+			<div class="container">
+				<h6>Mr. T. Ramakrishnaiah</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-maheshwarareddy.jpg" style="width:100%">
+			<div class="container">
+				<h6>Mr. Maheswara Reddy</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+  
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-sangeethasingh.jpg" style="width:100%">
+			<div class="container">
+				<h6>Ms. Sangeetha Singh</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-srikanth.jpg" style="width:100%">
+			<div class="container">
+				<h6>Dr. B. Srikanth</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--Seventh row-->
+
+<div class="row">
+	<div class="column">
+		<div class="card">
+		 <img src="../team/ece-ramakrishnaiah.jpg" style="width:100%; border-radius: 10%;">
+			<div class="container">
+				<h6>Mr. T. Ramakrishnaiah</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-maheshwarareddy.jpg" style="width:100%">
+			<div class="container">
+				<h6>Mr. Maheswara Reddy</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+  
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-sangeethasingh.jpg" style="width:100%">
+			<div class="container">
+				<h6>Ms. Sangeetha Singh</h6>
+				<p class="title">Assistant Professor, ECE</p>
+			</div>
+		</div>
+	</div>
+  
+	<div class="column">
+		<div class="card">
+		  <img src="../team/ece-srikanth.jpg" style="width:100%">
+			<div class="container">
+				<h6>Dr. B. Srikanth</h6>
 				<p class="title">Assistant Professor, ECE</p>
 			</div>
 		</div>
