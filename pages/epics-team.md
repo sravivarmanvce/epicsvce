@@ -169,11 +169,7 @@ html {
 			</div>
 		</div>
 	</div>
-</div>
-
-<!--Third row-->
-
-<div class="row">
+	
 	<div class="column">
 		<div class="card">
 		 <img src="../team/ece-bhargava.jpg" style="width:100%; border-radius: 10%;">
@@ -183,6 +179,11 @@ html {
 			</div>
 		</div>
 	</div>
+</div>
+
+<!--Third row-->
+
+<div class="row">
 
 	<div class="column">
 		<div class="card">
@@ -193,7 +194,6 @@ html {
 			</div>
 		</div>
 	</div>
-  
   
 	<div class="column">
 		<div class="card">
@@ -214,11 +214,7 @@ html {
 			</div>
 		</div>
 	</div>
-</div>
-
-<!--Fourth row-->
-
-<div class="row">
+	
 	<div class="column">
 		<div class="card">
 		 <img src="../team/ece-kalyani.jpg" style="width:100%; border-radius: 10%;">
@@ -231,14 +227,18 @@ html {
 
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-maheshwarareddy.jpg" style="width:100%">
+		  <img src="../team/ece-maheswarareddy.jpg" style="width:100%">
 			<div class="container">
 				<h6>Mr. Maheswara Reddy</h6>
 				<p class="title">Assistant Professor, ECE</p>
 			</div>
 		</div>
 	</div>
-  
+</div>
+
+<!--Fourth row-->
+
+<div class="row">
   
 	<div class="column">
 		<div class="card">
@@ -259,11 +259,7 @@ html {
 			</div>
 		</div>
 	</div>
-</div>
 
-<!--Fifth row-->
-
-<div class="row">
 	<div class="column">
 		<div class="card">
 		 <img src="../team/ece-pavankumar.jpg" style="width:100%; border-radius: 10%;">
@@ -294,7 +290,11 @@ html {
 			</div>
 		</div>
 	</div>
-  
+</div>
+
+<!--Fifth row-->
+
+<div class="row">  
 	<div class="column">
 		<div class="card">
 		  <img src="../team/ece-purnachandrareddy.jpg" style="width:100%">
@@ -304,11 +304,7 @@ html {
 			</div>
 		</div>
 	</div>
-</div>
 
-<!--Sixth row-->
-
-<div class="row">
 	<div class="column">
 		<div class="card">
 		 <img src="../team/ece-ramakrishnaiah.jpg" style="width:100%; border-radius: 10%;">
@@ -321,20 +317,9 @@ html {
 
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-maheshwarareddy.jpg" style="width:100%">
+		  <img src="../team/ece-sangeetasingh.jpg" style="width:100%">
 			<div class="container">
-				<h6>Mr. Maheswara Reddy</h6>
-				<p class="title">Assistant Professor, ECE</p>
-			</div>
-		</div>
-	</div>
-  
-  
-	<div class="column">
-		<div class="card">
-		  <img src="../team/ece-sangeethasingh.jpg" style="width:100%">
-			<div class="container">
-				<h6>Ms. Sangeetha Singh</h6>
+				<h6>Ms. Sangeeta Singh</h6>
 				<p class="title">Assistant Professor, ECE</p>
 			</div>
 		</div>
@@ -349,50 +334,17 @@ html {
 			</div>
 		</div>
 	</div>
-</div>
-
-<!--Seventh row-->
-
-<div class="row">
-	<div class="column">
-		<div class="card">
-		 <img src="../team/ece-ramakrishnaiah.jpg" style="width:100%; border-radius: 10%;">
-			<div class="container">
-				<h6>Mr. T. Ramakrishnaiah</h6>
-				<p class="title">Assistant Professor, ECE</p>
-			</div>
-		</div>
-	</div>
 
 	<div class="column">
 		<div class="card">
-		  <img src="../team/ece-maheshwarareddy.jpg" style="width:100%">
+		 <img src="../team/ece-srilatha.jpg" style="width:100%; border-radius: 10%;">
 			<div class="container">
-				<h6>Mr. Maheswara Reddy</h6>
-				<p class="title">Assistant Professor, ECE</p>
-			</div>
-		</div>
-	</div>
-  
-  
-	<div class="column">
-		<div class="card">
-		  <img src="../team/ece-sangeethasingh.jpg" style="width:100%">
-			<div class="container">
-				<h6>Ms. Sangeetha Singh</h6>
-				<p class="title">Assistant Professor, ECE</p>
-			</div>
-		</div>
-	</div>
-  
-	<div class="column">
-		<div class="card">
-		  <img src="../team/ece-srikanth.jpg" style="width:100%">
-			<div class="container">
-				<h6>Dr. B. Srikanth</h6>
+				<h6>Ms. M. Srilatha</h6>
 				<p class="title">Assistant Professor, ECE</p>
 			</div>
 		</div>
 	</div>
 </div>
+
+<!--Sisxth row-->
 
