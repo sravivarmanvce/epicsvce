@@ -43,6 +43,7 @@ html {
 
 .title {
   color: black;
+  font-size: 12px;
 }
 
 .button {
