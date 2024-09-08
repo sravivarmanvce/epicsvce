@@ -1,7 +1,7 @@
 title: "EPICS"
 email: epics@vardhaman.org
 timezone: IST
-baseurl: "/temp"
+baseurl: "/epicsvce"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
